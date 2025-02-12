@@ -1,0 +1,2881 @@
+swi_issue_id,issue_name,Year,Quarter,lobbying_expenses
+1,Macroeconomics,2020,4,61044429
+1,Macroeconomics,2021,3,36084703
+1,Macroeconomics,2022,2,38690434
+1,Macroeconomics,2023,1,31598209
+1,Macroeconomics,2023,4,31290872
+1,Macroeconomics,2024,3,24059952
+2,"Civil Rights, Minority Issues, and Civil Liberties",2010,1,75869219
+2,"Civil Rights, Minority Issues, and Civil Liberties",2010,4,117792119
+2,"Civil Rights, Minority Issues, and Civil Liberties",2011,3,39068666
+2,"Civil Rights, Minority Issues, and Civil Liberties",2012,2,53899467
+2,"Civil Rights, Minority Issues, and Civil Liberties",2013,1,40571461
+2,"Civil Rights, Minority Issues, and Civil Liberties",2013,4,45223433
+2,"Civil Rights, Minority Issues, and Civil Liberties",2014,3,84149464
+2,"Civil Rights, Minority Issues, and Civil Liberties",2015,2,40383794
+2,"Civil Rights, Minority Issues, and Civil Liberties",2016,1,42225089
+2,"Civil Rights, Minority Issues, and Civil Liberties",2016,4,66854675
+2,"Civil Rights, Minority Issues, and Civil Liberties",2017,3,50783383
+2,"Civil Rights, Minority Issues, and Civil Liberties",2018,2,69344665
+2,"Civil Rights, Minority Issues, and Civil Liberties",2019,1,76584078
+4,Agriculture,2013,4,212659593
+4,Agriculture,2014,3,237568082
+4,Agriculture,2015,2,193165486
+4,Agriculture,2016,1,194041472
+4,Agriculture,2016,4,138473148
+4,Agriculture,2017,3,132830382
+4,Agriculture,2018,2,183686529
+4,Agriculture,2019,1,168021727
+4,Agriculture,2019,4,169873124
+4,Agriculture,2020,3,144833463
+4,Agriculture,2021,2,168423068
+4,Agriculture,2022,1,153471628
+4,Agriculture,2022,4,170037306
+4,Agriculture,2023,3,189218695
+4,Agriculture,2024,2,194587438
+5,Labor and Employment,2010,3,200040374
+5,Labor and Employment,2011,2,148169299
+5,Labor and Employment,2012,1,180045979
+6,Education,2019,4,120199198
+6,Education,2020,3,106437603
+6,Education,2021,2,105788431
+6,Education,2022,1,118607265
+6,Education,2022,4,119842379
+6,Education,2023,3,110894953
+6,Education,2024,2,120095184
+7,Environment,2010,3,449971137
+7,Environment,2011,2,340907494
+7,Environment,2012,1,390284359
+7,Environment,2012,4,423681955
+7,Environment,2013,3,323832222
+7,Environment,2014,2,375160673
+7,Environment,2015,1,366516258
+7,Environment,2015,4,342922869
+7,Environment,2016,3,328661949
+7,Environment,2017,2,262101468
+7,Environment,2018,1,297241564
+9,Immigration,2012,4,114832618
+9,Immigration,2013,3,137270532
+9,Immigration,2014,2,143218308
+9,Immigration,2015,1,119537586
+9,Immigration,2015,4,110095758
+9,Immigration,2016,3,110419935
+9,Immigration,2017,2,116286256
+9,Immigration,2018,1,137039011
+9,Immigration,2018,4,141376447
+9,Immigration,2019,3,115591974
+9,Immigration,2020,2,133661067
+9,Immigration,2021,1,137042126
+9,Immigration,2021,4,136407863
+2,"Civil Rights, Minority Issues, and Civil Liberties",2010,2,49501365
+2,"Civil Rights, Minority Issues, and Civil Liberties",2011,1,46017371
+3,Health,2018,4,569450892
+3,Health,2019,3,592435596
+3,Health,2020,2,621730690
+3,Health,2021,1,654227140
+3,Health,2021,4,667096930
+3,Health,2022,3,697783914
+3,Health,2023,2,636943982
+3,Health,2024,1,750783942
+3,Health,2024,4,647160089
+4,Agriculture,2021,4,151406541
+4,Agriculture,2022,3,168137676
+4,Agriculture,2023,2,198941563
+4,Agriculture,2024,1,196799341
+4,Agriculture,2024,4,196350520
+5,Labor and Employment,2010,2,205568232
+5,Labor and Employment,2011,1,131355590
+5,Labor and Employment,2011,4,167875017
+5,Labor and Employment,2012,3,167309139
+5,Labor and Employment,2013,2,135674067
+5,Labor and Employment,2014,1,152458400
+5,Labor and Employment,2014,4,142642274
+5,Labor and Employment,2015,3,137974301
+5,Labor and Employment,2016,2,171221440
+5,Labor and Employment,2017,1,173487982
+5,Labor and Employment,2017,4,202063937
+5,Labor and Employment,2018,3,174554049
+5,Labor and Employment,2019,2,158978195
+5,Labor and Employment,2020,1,199508201
+6,Education,2011,4,88769674
+6,Education,2012,3,93049294
+6,Education,2013,2,97917356
+6,Education,2014,1,108189821
+6,Education,2014,4,107194618
+6,Education,2015,3,105240252
+6,Education,2016,2,117852175
+6,Education,2017,1,100778623
+6,Education,2017,4,114317199
+6,Education,2018,3,122739150
+6,Education,2019,2,113773726
+6,Education,2020,1,118090259
+6,Education,2020,4,111350311
+6,Education,2021,3,102559382
+6,Education,2022,2,112408558
+6,Education,2023,1,115797908
+7,Environment,2010,1,521265848
+8,Energy,2010,1,416987910
+8,Energy,2010,4,366943606
+8,Energy,2011,3,284407227
+8,Energy,2012,2,322741736
+8,Energy,2013,1,291020186
+9,Immigration,2020,4,156412202
+9,Immigration,2021,3,137746195
+9,Immigration,2022,2,129643910
+9,Immigration,2023,1,127835700
+9,Immigration,2023,4,130146042
+9,Immigration,2024,3,115850222
+10,Transportation,2023,4,403277412
+10,Transportation,2024,3,335412097
+11,"Law, Crime, and Family Issues",2010,4,173315788
+11,"Law, Crime, and Family Issues",2011,3,128158917
+11,"Law, Crime, and Family Issues",2012,2,99488761
+11,"Law, Crime, and Family Issues",2013,1,92575195
+11,"Law, Crime, and Family Issues",2013,4,131144116
+11,"Law, Crime, and Family Issues",2014,3,124569992
+11,"Law, Crime, and Family Issues",2015,2,134956237
+11,"Law, Crime, and Family Issues",2016,1,136249807
+11,"Law, Crime, and Family Issues",2016,4,113039908
+11,"Law, Crime, and Family Issues",2017,3,103952114
+11,"Law, Crime, and Family Issues",2018,2,111518810
+11,"Law, Crime, and Family Issues",2019,1,89766095
+1,Macroeconomics,2024,4,27375797
+2,"Civil Rights, Minority Issues, and Civil Liberties",2010,3,85636417
+2,"Civil Rights, Minority Issues, and Civil Liberties",2011,2,42852565
+2,"Civil Rights, Minority Issues, and Civil Liberties",2012,1,45430454
+2,"Civil Rights, Minority Issues, and Civil Liberties",2012,4,51107847
+2,"Civil Rights, Minority Issues, and Civil Liberties",2013,3,40931320
+2,"Civil Rights, Minority Issues, and Civil Liberties",2014,2,73768565
+2,"Civil Rights, Minority Issues, and Civil Liberties",2015,1,34703985
+3,Health,2010,1,758971579
+4,Agriculture,2010,3,156935942
+4,Agriculture,2011,2,163163996
+4,Agriculture,2012,1,214565934
+4,Agriculture,2012,4,204770606
+4,Agriculture,2013,3,189829879
+4,Agriculture,2014,2,246129675
+4,Agriculture,2015,1,184231646
+4,Agriculture,2015,4,180299960
+4,Agriculture,2016,3,182006070
+4,Agriculture,2017,2,153784701
+4,Agriculture,2018,1,188377957
+4,Agriculture,2018,4,176188916
+4,Agriculture,2019,3,157150299
+4,Agriculture,2020,2,168100821
+4,Agriculture,2021,1,141953686
+5,Labor and Employment,2010,1,233128691
+5,Labor and Employment,2010,4,261309199
+5,Labor and Employment,2011,3,144077202
+5,Labor and Employment,2012,2,170986696
+5,Labor and Employment,2013,1,133618922
+5,Labor and Employment,2013,4,157182822
+5,Labor and Employment,2014,3,158768503
+5,Labor and Employment,2015,2,138979735
+5,Labor and Employment,2016,1,161265998
+6,Education,2015,4,105991149
+6,Education,2016,3,107314133
+6,Education,2017,2,106009136
+6,Education,2018,1,123019856
+6,Education,2018,4,105416778
+6,Education,2019,3,104388032
+6,Education,2020,2,111089907
+6,Education,2021,1,108073560
+6,Education,2021,4,114716284
+6,Education,2022,3,118704707
+6,Education,2023,2,116288676
+6,Education,2024,1,137906662
+6,Education,2024,4,119300354
+7,Environment,2010,4,447045084
+7,Environment,2011,3,317584904
+7,Environment,2012,2,381043726
+7,Environment,2013,1,326548218
+7,Environment,2013,4,354962067
+7,Environment,2014,3,401466448
+7,Environment,2015,2,378240022
+7,Environment,2016,1,350610490
+7,Environment,2016,4,298593778
+7,Environment,2017,3,247916956
+7,Environment,2018,2,306228403
+7,Environment,2019,1,297165038
+7,Environment,2019,4,318501949
+7,Environment,2020,3,297525741
+7,Environment,2021,2,304967240
+7,Environment,2022,1,305487782
+8,Energy,2021,4,257166510
+8,Energy,2022,3,257719511
+8,Energy,2023,2,273748532
+8,Energy,2024,1,299365273
+8,Energy,2024,4,277807849
+9,Immigration,2016,4,109403041
+9,Immigration,2017,3,126381045
+9,Immigration,2018,2,145421100
+9,Immigration,2019,1,120650771
+9,Immigration,2019,4,126082774
+9,Immigration,2020,3,158707025
+1,Macroeconomics,2010,3,23945312
+1,Macroeconomics,2011,2,19551168
+1,Macroeconomics,2012,1,50932368
+3,Health,2022,4,685526549
+3,Health,2023,3,640727672
+3,Health,2024,2,656087703
+4,Agriculture,2017,4,187434311
+4,Agriculture,2018,3,183490743
+4,Agriculture,2019,2,169456743
+4,Agriculture,2020,1,178601548
+4,Agriculture,2020,4,150417939
+4,Agriculture,2021,3,140832585
+4,Agriculture,2022,2,168089128
+4,Agriculture,2023,1,183788391
+4,Agriculture,2023,4,198550230
+4,Agriculture,2024,3,194512663
+5,Labor and Employment,2012,4,175799058
+5,Labor and Employment,2013,3,130748052
+5,Labor and Employment,2014,2,159448951
+5,Labor and Employment,2015,1,128079810
+5,Labor and Employment,2015,4,143397841
+5,Labor and Employment,2016,3,177626189
+5,Labor and Employment,2017,2,164626716
+5,Labor and Employment,2018,1,184945734
+5,Labor and Employment,2018,4,179385391
+5,Labor and Employment,2019,3,153771137
+5,Labor and Employment,2020,2,181061798
+5,Labor and Employment,2021,1,186542353
+5,Labor and Employment,2021,4,223270281
+5,Labor and Employment,2022,3,271754581
+5,Labor and Employment,2023,2,221828893
+5,Labor and Employment,2024,1,250988310
+6,Education,2010,1,108773468
+6,Education,2010,4,104947729
+6,Education,2011,3,86188026
+6,Education,2012,2,98456575
+6,Education,2013,1,89748848
+6,Education,2013,4,96072582
+6,Education,2014,3,107613974
+6,Education,2015,2,122476148
+6,Education,2016,1,107282445
+6,Education,2016,4,104466799
+6,Education,2017,3,100872351
+6,Education,2018,2,127142277
+6,Education,2019,1,113640514
+7,Environment,2010,2,428154124
+7,Environment,2011,1,387716973
+7,Environment,2011,4,382776010
+7,Environment,2012,3,394898790
+7,Environment,2013,2,324968901
+7,Environment,2014,1,360509668
+9,Immigration,2024,4,130868192
+10,Transportation,2019,4,361865409
+10,Transportation,2020,3,318614611
+10,Transportation,2021,2,325586912
+10,Transportation,2022,1,378431661
+10,Transportation,2022,4,385935821
+10,Transportation,2023,3,349180746
+10,Transportation,2024,2,359039291
+11,"Law, Crime, and Family Issues",2014,4,130070614
+11,"Law, Crime, and Family Issues",2015,3,111298213
+11,"Law, Crime, and Family Issues",2016,2,145625395
+11,"Law, Crime, and Family Issues",2017,1,137885576
+11,"Law, Crime, and Family Issues",2017,4,102808137
+11,"Law, Crime, and Family Issues",2018,3,115168101
+11,"Law, Crime, and Family Issues",2019,2,83561751
+11,"Law, Crime, and Family Issues",2020,1,111460859
+11,"Law, Crime, and Family Issues",2020,4,147467660
+11,"Law, Crime, and Family Issues",2021,3,126477247
+11,"Law, Crime, and Family Issues",2022,2,94706535
+11,"Law, Crime, and Family Issues",2023,1,118883777
+12,Social Welfare,2010,3,105457203
+1,Macroeconomics,2012,4,58227634
+1,Macroeconomics,2013,3,36239247
+1,Macroeconomics,2014,2,49845930
+1,Macroeconomics,2015,1,38841251
+1,Macroeconomics,2015,4,23308974
+1,Macroeconomics,2016,3,20542068
+1,Macroeconomics,2017,2,24421407
+1,Macroeconomics,2018,1,27766069
+1,Macroeconomics,2018,4,26154630
+1,Macroeconomics,2019,3,23128182
+1,Macroeconomics,2020,2,50506245
+1,Macroeconomics,2021,1,33209378
+1,Macroeconomics,2021,4,33429848
+1,Macroeconomics,2022,3,37565211
+1,Macroeconomics,2023,2,31196515
+1,Macroeconomics,2024,1,33313299
+2,"Civil Rights, Minority Issues, and Civil Liberties",2015,4,40004330
+2,"Civil Rights, Minority Issues, and Civil Liberties",2016,3,71542036
+2,"Civil Rights, Minority Issues, and Civil Liberties",2017,2,54479366
+2,"Civil Rights, Minority Issues, and Civil Liberties",2018,1,66692608
+2,"Civil Rights, Minority Issues, and Civil Liberties",2018,4,64565553
+2,"Civil Rights, Minority Issues, and Civil Liberties",2019,3,71367512
+2,"Civil Rights, Minority Issues, and Civil Liberties",2020,2,79505815
+2,"Civil Rights, Minority Issues, and Civil Liberties",2021,1,96709156
+2,"Civil Rights, Minority Issues, and Civil Liberties",2021,4,99344481
+2,"Civil Rights, Minority Issues, and Civil Liberties",2022,3,129562832
+2,"Civil Rights, Minority Issues, and Civil Liberties",2023,2,73798811
+2,"Civil Rights, Minority Issues, and Civil Liberties",2024,1,90018532
+2,"Civil Rights, Minority Issues, and Civil Liberties",2024,4,87934480
+3,Health,2010,2,607028174
+3,Health,2011,1,577899680
+3,Health,2011,4,559742180
+3,Health,2012,3,519156998
+3,Health,2013,2,494602240
+3,Health,2014,1,573042698
+4,Agriculture,2010,2,186037473
+4,Agriculture,2011,1,156601676
+4,Agriculture,2011,4,188093299
+4,Agriculture,2012,3,222502108
+4,Agriculture,2013,2,209411839
+4,Agriculture,2014,1,231095854
+4,Agriculture,2014,4,206669875
+4,Agriculture,2015,3,204525343
+4,Agriculture,2016,2,197709553
+4,Agriculture,2017,1,157484122
+5,Labor and Employment,2024,4,225895908
+7,Environment,2014,4,371244837
+7,Environment,2015,3,337064288
+7,Environment,2016,2,349565748
+7,Environment,2017,1,321319255
+7,Environment,2017,4,285434929
+7,Environment,2018,3,307555526
+7,Environment,2019,2,277217457
+7,Environment,2020,1,329619170
+7,Environment,2020,4,299273184
+7,Environment,2021,3,285824647
+7,Environment,2022,2,287889470
+7,Environment,2023,1,315849892
+7,Environment,2023,4,332606861
+7,Environment,2024,3,312500391
+8,Energy,2017,4,252548664
+8,Energy,2018,3,250310153
+8,Energy,2019,2,246570458
+8,Energy,2020,1,268155178
+8,Energy,2020,4,206675360
+8,Energy,2021,3,224930593
+8,Energy,2022,2,252320533
+8,Energy,2023,1,277945415
+1,Macroeconomics,2016,4,20451885
+1,Macroeconomics,2017,3,26616279
+1,Macroeconomics,2018,2,29094024
+1,Macroeconomics,2019,1,20583355
+1,Macroeconomics,2019,4,20933947
+1,Macroeconomics,2020,3,56076468
+1,Macroeconomics,2021,2,31289933
+1,Macroeconomics,2022,1,36844257
+1,Macroeconomics,2022,4,32799407
+1,Macroeconomics,2023,3,27356173
+1,Macroeconomics,2024,2,31106040
+2,"Civil Rights, Minority Issues, and Civil Liberties",2011,4,37215037
+2,"Civil Rights, Minority Issues, and Civil Liberties",2012,3,54351582
+2,"Civil Rights, Minority Issues, and Civil Liberties",2013,2,47769022
+2,"Civil Rights, Minority Issues, and Civil Liberties",2014,1,44845982
+2,"Civil Rights, Minority Issues, and Civil Liberties",2014,4,41462157
+2,"Civil Rights, Minority Issues, and Civil Liberties",2015,3,37717280
+2,"Civil Rights, Minority Issues, and Civil Liberties",2016,2,51902097
+2,"Civil Rights, Minority Issues, and Civil Liberties",2017,1,63841017
+2,"Civil Rights, Minority Issues, and Civil Liberties",2017,4,74342477
+2,"Civil Rights, Minority Issues, and Civil Liberties",2018,3,76007280
+2,"Civil Rights, Minority Issues, and Civil Liberties",2019,2,73261372
+2,"Civil Rights, Minority Issues, and Civil Liberties",2020,1,79996355
+2,"Civil Rights, Minority Issues, and Civil Liberties",2020,4,102284902
+2,"Civil Rights, Minority Issues, and Civil Liberties",2021,3,100986607
+2,"Civil Rights, Minority Issues, and Civil Liberties",2022,2,101642954
+2,"Civil Rights, Minority Issues, and Civil Liberties",2023,1,102071146
+3,Health,2010,3,617294101
+3,Health,2011,2,526851137
+3,Health,2012,1,595717488
+3,Health,2012,4,536750909
+3,Health,2013,3,501648671
+3,Health,2014,2,558162015
+3,Health,2015,1,559909642
+3,Health,2015,4,503205277
+3,Health,2016,3,524490214
+3,Health,2017,2,558655134
+3,Health,2018,1,637175671
+4,Agriculture,2010,1,208062091
+4,Agriculture,2010,4,200836382
+4,Agriculture,2011,3,161149326
+4,Agriculture,2012,2,231843080
+4,Agriculture,2013,1,168232788
+6,Education,2023,4,121089382
+6,Education,2024,3,115844922
+7,Environment,2018,4,281630250
+7,Environment,2019,3,260937650
+7,Environment,2020,2,256467050
+7,Environment,2021,1,280442976
+7,Environment,2021,4,306412206
+7,Environment,2022,3,310525621
+7,Environment,2023,2,291864451
+7,Environment,2024,1,348670525
+7,Environment,2024,4,319611946
+8,Energy,2013,4,340467287
+8,Energy,2014,3,311868907
+8,Energy,2015,2,263024943
+8,Energy,2016,1,268507340
+8,Energy,2016,4,246437507
+8,Energy,2017,3,221268300
+8,Energy,2018,2,234084179
+8,Energy,2019,1,242135963
+8,Energy,2019,4,264969702
+8,Energy,2020,3,200192590
+8,Energy,2021,2,207407063
+8,Energy,2022,1,270713460
+8,Energy,2022,4,261013216
+1,Macroeconomics,2010,2,29582870
+1,Macroeconomics,2011,1,15168482
+1,Macroeconomics,2011,4,25633436
+1,Macroeconomics,2012,3,58224757
+1,Macroeconomics,2013,2,40114449
+1,Macroeconomics,2014,1,50331231
+1,Macroeconomics,2014,4,52830603
+1,Macroeconomics,2015,3,39196101
+1,Macroeconomics,2016,2,24570408
+1,Macroeconomics,2017,1,19826438
+1,Macroeconomics,2017,4,40433841
+1,Macroeconomics,2018,3,28534556
+1,Macroeconomics,2019,2,24594379
+1,Macroeconomics,2020,1,52230183
+2,"Civil Rights, Minority Issues, and Civil Liberties",2019,4,75263017
+2,"Civil Rights, Minority Issues, and Civil Liberties",2020,3,107602813
+2,"Civil Rights, Minority Issues, and Civil Liberties",2021,2,99385049
+2,"Civil Rights, Minority Issues, and Civil Liberties",2022,1,108986593
+2,"Civil Rights, Minority Issues, and Civil Liberties",2022,4,118325799
+2,"Civil Rights, Minority Issues, and Civil Liberties",2023,3,71461781
+2,"Civil Rights, Minority Issues, and Civil Liberties",2024,2,85537429
+3,Health,2014,4,532929895
+3,Health,2015,3,516294157
+3,Health,2016,2,532341308
+3,Health,2017,1,620387799
+3,Health,2017,4,592668842
+3,Health,2018,3,581828729
+3,Health,2019,2,580099550
+3,Health,2020,1,680700572
+3,Health,2020,4,639437520
+3,Health,2021,3,641421735
+3,Health,2022,2,653669924
+3,Health,2023,1,730337045
+3,Health,2023,4,683407005
+3,Health,2024,3,624256965
+5,Labor and Employment,2020,4,199908120
+5,Labor and Employment,2021,3,217124239
+5,Labor and Employment,2022,2,233863435
+5,Labor and Employment,2023,1,243082109
+5,Labor and Employment,2023,4,236039353
+5,Labor and Employment,2024,3,228443402
+6,Education,2010,2,110801369
+6,Education,2011,1,81665927
+8,Energy,2010,2,393160250
+8,Energy,2011,1,333937916
+8,Energy,2011,4,332682085
+8,Energy,2012,3,309849407
+8,Energy,2013,2,310482266
+8,Energy,2014,1,325270274
+8,Energy,2014,4,265547010
+8,Energy,2015,3,248961458
+8,Energy,2016,2,250299839
+8,Energy,2017,1,261323883
+9,Immigration,2010,3,86561594
+9,Immigration,2011,2,68012266
+9,Immigration,2012,1,83858978
+10,Transportation,2011,4,323950575
+10,Transportation,2012,3,346834292
+10,Transportation,2013,2,260935901
+10,Transportation,2014,1,299112707
+10,Transportation,2014,4,302875865
+10,Transportation,2015,3,339544621
+10,Transportation,2016,2,329614052
+10,Transportation,2017,1,326367893
+10,Transportation,2017,4,349465056
+10,Transportation,2018,3,347352194
+10,Transportation,2019,2,306102488
+10,Transportation,2020,1,374933476
+10,Transportation,2020,4,321894855
+10,Transportation,2021,3,345790149
+10,Transportation,2022,2,340019653
+10,Transportation,2023,1,398251425
+1,Macroeconomics,2010,1,38855637
+1,Macroeconomics,2010,4,18144715
+1,Macroeconomics,2011,3,37886844
+1,Macroeconomics,2012,2,48590718
+1,Macroeconomics,2013,1,24935970
+1,Macroeconomics,2013,4,43070920
+1,Macroeconomics,2014,3,61025147
+1,Macroeconomics,2015,2,42389789
+1,Macroeconomics,2016,1,26368713
+2,"Civil Rights, Minority Issues, and Civil Liberties",2023,4,66000754
+2,"Civil Rights, Minority Issues, and Civil Liberties",2024,3,92411836
+3,Health,2010,4,658602469
+3,Health,2011,3,542575902
+3,Health,2012,2,565172639
+3,Health,2013,1,542343207
+3,Health,2013,4,564197500
+3,Health,2014,3,544263336
+3,Health,2015,2,555764485
+3,Health,2016,1,539531775
+3,Health,2016,4,511225804
+3,Health,2017,3,543188212
+3,Health,2018,2,566190338
+3,Health,2019,1,617856484
+3,Health,2019,4,606458305
+3,Health,2020,3,634832984
+3,Health,2021,2,605029829
+3,Health,2022,1,725297156
+5,Labor and Employment,2016,4,166148682
+5,Labor and Employment,2017,3,160550138
+5,Labor and Employment,2018,2,169530886
+5,Labor and Employment,2019,1,164658433
+5,Labor and Employment,2019,4,169458179
+5,Labor and Employment,2020,3,196809578
+5,Labor and Employment,2021,2,201608341
+5,Labor and Employment,2022,1,238227604
+5,Labor and Employment,2022,4,267674185
+5,Labor and Employment,2023,3,207254841
+5,Labor and Employment,2024,2,214457489
+6,Education,2010,3,99903403
+6,Education,2011,2,86599593
+6,Education,2012,1,96097504
+6,Education,2012,4,95673731
+6,Education,2013,3,90842203
+6,Education,2014,2,105445472
+6,Education,2015,1,110439179
+7,Environment,2022,4,318839875
+7,Environment,2023,3,270827224
+7,Environment,2024,2,308614490
+8,Energy,2010,3,350342687
+8,Energy,2011,2,313773544
+8,Energy,2012,1,345308372
+8,Energy,2012,4,327969518
+8,Energy,2013,3,306371123
+8,Energy,2014,2,314162276
+8,Energy,2015,1,275140412
+8,Energy,2015,4,261564190
+8,Energy,2016,3,248480610
+8,Energy,2017,2,234848465
+8,Energy,2018,1,259916993
+8,Energy,2018,4,230365789
+8,Energy,2019,3,231910107
+8,Energy,2020,2,204850613
+8,Energy,2021,1,199968095
+10,Transportation,2015,4,363578512
+10,Transportation,2016,3,320135815
+10,Transportation,2017,2,326642712
+10,Transportation,2018,1,345030543
+10,Transportation,2018,4,324738288
+10,Transportation,2019,3,305575428
+10,Transportation,2020,2,331972047
+10,Transportation,2021,1,346922557
+10,Transportation,2021,4,358331466
+10,Transportation,2022,3,369803448
+10,Transportation,2023,2,384647488
+10,Transportation,2024,1,415539187
+11,"Law, Crime, and Family Issues",2010,2,155975764
+12,Social Welfare,2011,2,82946537
+12,Social Welfare,2012,1,96233237
+12,Social Welfare,2012,4,87510869
+12,Social Welfare,2013,3,84462849
+12,Social Welfare,2014,2,90648224
+12,Social Welfare,2015,1,78178227
+12,Social Welfare,2015,4,81633733
+12,Social Welfare,2016,3,87126981
+12,Social Welfare,2017,2,66272189
+12,Social Welfare,2018,1,88959210
+13,Community Development and Housing,2010,1,89087018
+13,Community Development and Housing,2010,4,58743096
+13,Community Development and Housing,2011,3,52027897
+13,Community Development and Housing,2012,2,60413928
+13,Community Development and Housing,2013,1,52959593
+13,Community Development and Housing,2013,4,60069571
+13,Community Development and Housing,2014,3,79452276
+13,Community Development and Housing,2015,2,53406860
+13,Community Development and Housing,2016,1,77824792
+14,"Banking, Finance, and Domestic Commerce",2010,2,1355532456
+14,"Banking, Finance, and Domestic Commerce",2011,1,1202684195
+15,Defense,2023,4,472371752
+15,Defense,2024,3,475494063
+16,"Space, Science, Technology, and Communications",2018,4,516748916
+16,"Space, Science, Technology, and Communications",2019,3,528965073
+16,"Space, Science, Technology, and Communications",2020,2,552022062
+16,"Space, Science, Technology, and Communications",2021,1,567714325
+16,"Space, Science, Technology, and Communications",2021,4,648170786
+16,"Space, Science, Technology, and Communications",2022,3,647959398
+16,"Space, Science, Technology, and Communications",2023,2,587741157
+16,"Space, Science, Technology, and Communications",2024,1,679912814
+16,"Space, Science, Technology, and Communications",2024,4,604108676
+17,Foreign Trade,2013,4,298670697
+17,Foreign Trade,2014,3,298424353
+17,Foreign Trade,2015,2,332163416
+17,Foreign Trade,2016,1,312599881
+17,Foreign Trade,2016,4,260242436
+17,Foreign Trade,2017,3,272807497
+17,Foreign Trade,2018,2,332612708
+17,Foreign Trade,2019,1,360338134
+17,Foreign Trade,2019,4,356764234
+17,Foreign Trade,2020,3,316454224
+17,Foreign Trade,2021,2,291384490
+17,Foreign Trade,2022,1,351280976
+17,Foreign Trade,2022,4,312377388
+17,Foreign Trade,2023,3,293821204
+17,Foreign Trade,2024,2,320838532
+18,International Affairs and Foreign Aid,2010,2,64362591
+18,International Affairs and Foreign Aid,2011,1,59873283
+18,International Affairs and Foreign Aid,2011,4,78123835
+18,International Affairs and Foreign Aid,2012,3,86255418
+18,International Affairs and Foreign Aid,2013,2,68955258
+18,International Affairs and Foreign Aid,2014,1,84019514
+18,International Affairs and Foreign Aid,2014,4,76688673
+18,International Affairs and Foreign Aid,2015,3,53386241
+18,International Affairs and Foreign Aid,2016,2,77014911
+18,International Affairs and Foreign Aid,2017,1,77850093
+18,International Affairs and Foreign Aid,2017,4,84582286
+18,International Affairs and Foreign Aid,2018,3,89653717
+18,International Affairs and Foreign Aid,2019,2,77038690
+12,Social Welfare,2013,4,93144869
+12,Social Welfare,2014,3,95551553
+12,Social Welfare,2015,2,83796881
+12,Social Welfare,2016,1,82575247
+12,Social Welfare,2016,4,82894253
+12,Social Welfare,2017,3,67149806
+12,Social Welfare,2018,2,94545872
+12,Social Welfare,2019,1,92377123
+12,Social Welfare,2019,4,91128813
+12,Social Welfare,2020,3,85333904
+12,Social Welfare,2021,2,71626863
+12,Social Welfare,2022,1,82249539
+13,Community Development and Housing,2010,3,57722107
+13,Community Development and Housing,2011,2,49276767
+13,Community Development and Housing,2012,1,53867589
+14,"Banking, Finance, and Domestic Commerce",2010,3,1404555890
+14,"Banking, Finance, and Domestic Commerce",2011,2,1119511460
+14,"Banking, Finance, and Domestic Commerce",2012,1,1373722260
+14,"Banking, Finance, and Domestic Commerce",2012,4,1407432436
+14,"Banking, Finance, and Domestic Commerce",2013,3,1129383321
+14,"Banking, Finance, and Domestic Commerce",2014,2,1323964925
+14,"Banking, Finance, and Domestic Commerce",2015,1,1176993900
+15,Defense,2019,4,429451977
+15,Defense,2020,3,403300823
+15,Defense,2021,2,399599412
+15,Defense,2022,1,451161391
+15,Defense,2022,4,440524902
+15,Defense,2023,3,442035412
+15,Defense,2024,2,480800263
+16,"Space, Science, Technology, and Communications",2022,4,638112431
+16,"Space, Science, Technology, and Communications",2023,3,566773608
+16,"Space, Science, Technology, and Communications",2024,2,598861161
+17,Foreign Trade,2010,3,284696434
+17,Foreign Trade,2011,2,231916633
+17,Foreign Trade,2012,1,279312822
+17,Foreign Trade,2012,4,297752768
+17,Foreign Trade,2013,3,268845088
+17,Foreign Trade,2014,2,298574548
+17,Foreign Trade,2015,1,307831622
+17,Foreign Trade,2015,4,291049887
+17,Foreign Trade,2016,3,260800025
+17,Foreign Trade,2017,2,275163469
+17,Foreign Trade,2018,1,362535002
+17,Foreign Trade,2018,4,325457544
+17,Foreign Trade,2019,3,328095955
+17,Foreign Trade,2020,2,316982451
+17,Foreign Trade,2021,1,311441304
+18,International Affairs and Foreign Aid,2012,4,89588291
+18,International Affairs and Foreign Aid,2013,3,67310402
+18,International Affairs and Foreign Aid,2014,2,83450489
+18,International Affairs and Foreign Aid,2015,1,57431713
+18,International Affairs and Foreign Aid,2015,4,52619035
+18,International Affairs and Foreign Aid,2016,3,67199128
+18,International Affairs and Foreign Aid,2017,2,75318551
+18,International Affairs and Foreign Aid,2018,1,92273904
+18,International Affairs and Foreign Aid,2018,4,88057790
+18,International Affairs and Foreign Aid,2019,3,90961164
+18,International Affairs and Foreign Aid,2020,2,66632542
+18,International Affairs and Foreign Aid,2021,1,76461450
+18,International Affairs and Foreign Aid,2021,4,73054568
+18,International Affairs and Foreign Aid,2022,3,81115529
+18,International Affairs and Foreign Aid,2023,2,94282949
+18,International Affairs and Foreign Aid,2024,1,104636899
+9,Immigration,2021,2,131804292
+9,Immigration,2022,1,139905964
+9,Immigration,2022,4,132678242
+9,Immigration,2023,3,120088185
+9,Immigration,2024,2,126036801
+10,Transportation,2024,4,354123365
+11,"Law, Crime, and Family Issues",2019,4,94628492
+11,"Law, Crime, and Family Issues",2020,3,143605484
+11,"Law, Crime, and Family Issues",2021,2,117291561
+11,"Law, Crime, and Family Issues",2022,1,102698438
+11,"Law, Crime, and Family Issues",2022,4,128615197
+11,"Law, Crime, and Family Issues",2023,3,112292939
+11,"Law, Crime, and Family Issues",2024,2,127541149
+12,Social Welfare,2010,1,124872644
+12,Social Welfare,2010,4,116500234
+12,Social Welfare,2011,3,79232864
+12,Social Welfare,2012,2,104596272
+12,Social Welfare,2013,1,80939143
+14,"Banking, Finance, and Domestic Commerce",2010,1,1437215583
+14,"Banking, Finance, and Domestic Commerce",2010,4,1476711711
+14,"Banking, Finance, and Domestic Commerce",2011,3,1128025174
+14,"Banking, Finance, and Domestic Commerce",2012,2,1310222292
+14,"Banking, Finance, and Domestic Commerce",2013,1,1169948264
+14,"Banking, Finance, and Domestic Commerce",2013,4,1279089134
+14,"Banking, Finance, and Domestic Commerce",2014,3,1345921989
+14,"Banking, Finance, and Domestic Commerce",2015,2,1152011134
+14,"Banking, Finance, and Domestic Commerce",2016,1,1115621673
+15,Defense,2010,2,352975375
+15,Defense,2011,1,276100198
+16,"Space, Science, Technology, and Communications",2010,4,518056850
+16,"Space, Science, Technology, and Communications",2011,3,493807917
+16,"Space, Science, Technology, and Communications",2012,2,474064633
+16,"Space, Science, Technology, and Communications",2013,1,465952402
+16,"Space, Science, Technology, and Communications",2013,4,541959313
+16,"Space, Science, Technology, and Communications",2014,3,550426091
+16,"Space, Science, Technology, and Communications",2015,2,563073185
+16,"Space, Science, Technology, and Communications",2016,1,592561834
+16,"Space, Science, Technology, and Communications",2016,4,510401630
+16,"Space, Science, Technology, and Communications",2017,3,497579014
+16,"Space, Science, Technology, and Communications",2018,2,536856120
+16,"Space, Science, Technology, and Communications",2019,1,564895961
+16,"Space, Science, Technology, and Communications",2019,4,596047417
+16,"Space, Science, Technology, and Communications",2020,3,565643980
+16,"Space, Science, Technology, and Communications",2021,2,566676410
+16,"Space, Science, Technology, and Communications",2022,1,650663697
+17,Foreign Trade,2010,2,260501292
+17,Foreign Trade,2011,1,260556378
+17,Foreign Trade,2011,4,252163813
+17,Foreign Trade,2012,3,279691732
+17,Foreign Trade,2013,2,263419598
+17,Foreign Trade,2014,1,323674909
+17,Foreign Trade,2014,4,278788491
+17,Foreign Trade,2015,3,294093851
+17,Foreign Trade,2016,2,288306597
+17,Foreign Trade,2017,1,289178008
+18,International Affairs and Foreign Aid,2016,4,65319340
+18,International Affairs and Foreign Aid,2017,3,68026844
+18,International Affairs and Foreign Aid,2018,2,93851896
+9,Immigration,2022,3,139039355
+9,Immigration,2023,2,130783282
+9,Immigration,2024,1,148215201
+10,Transportation,2010,2,329122345
+10,Transportation,2011,1,320357960
+11,"Law, Crime, and Family Issues",2018,4,135642683
+11,"Law, Crime, and Family Issues",2019,3,89059518
+11,"Law, Crime, and Family Issues",2020,2,138065087
+11,"Law, Crime, and Family Issues",2021,1,121825717
+11,"Law, Crime, and Family Issues",2021,4,123862666
+11,"Law, Crime, and Family Issues",2022,3,111308980
+11,"Law, Crime, and Family Issues",2023,2,120029147
+11,"Law, Crime, and Family Issues",2024,1,143321622
+11,"Law, Crime, and Family Issues",2024,4,114963161
+12,Social Welfare,2010,2,129829282
+12,Social Welfare,2011,1,73163243
+12,Social Welfare,2011,4,91630035
+12,Social Welfare,2012,3,103296829
+12,Social Welfare,2013,2,83624538
+12,Social Welfare,2014,1,96450075
+12,Social Welfare,2014,4,88775401
+12,Social Welfare,2015,3,80652715
+12,Social Welfare,2016,2,94256367
+12,Social Welfare,2017,1,97649384
+13,Community Development and Housing,2021,4,84885447
+13,Community Development and Housing,2022,3,83207794
+13,Community Development and Housing,2023,2,68871774
+13,Community Development and Housing,2024,1,74248162
+13,Community Development and Housing,2024,4,80375585
+14,"Banking, Finance, and Domestic Commerce",2011,4,1269606662
+14,"Banking, Finance, and Domestic Commerce",2012,3,1383716209
+14,"Banking, Finance, and Domestic Commerce",2013,2,1155494806
+14,"Banking, Finance, and Domestic Commerce",2014,1,1319808698
+14,"Banking, Finance, and Domestic Commerce",2014,4,1260471563
+14,"Banking, Finance, and Domestic Commerce",2015,3,1106118333
+14,"Banking, Finance, and Domestic Commerce",2016,2,1117851095
+14,"Banking, Finance, and Domestic Commerce",2017,1,1218206878
+14,"Banking, Finance, and Domestic Commerce",2017,4,1353462645
+14,"Banking, Finance, and Domestic Commerce",2018,3,1165012901
+14,"Banking, Finance, and Domestic Commerce",2019,2,1145073422
+14,"Banking, Finance, and Domestic Commerce",2020,1,1340075158
+15,Defense,2010,1,373638363
+16,"Space, Science, Technology, and Communications",2014,4,526412995
+16,"Space, Science, Technology, and Communications",2015,3,512513253
+16,"Space, Science, Technology, and Communications",2016,2,525181685
+16,"Space, Science, Technology, and Communications",2017,1,503450467
+16,"Space, Science, Technology, and Communications",2017,4,545110782
+16,"Space, Science, Technology, and Communications",2018,3,534094721
+16,"Space, Science, Technology, and Communications",2019,2,530244576
+16,"Space, Science, Technology, and Communications",2020,1,619998692
+16,"Space, Science, Technology, and Communications",2020,4,592691354
+16,"Space, Science, Technology, and Communications",2021,3,607464008
+16,"Space, Science, Technology, and Communications",2022,2,617835846
+16,"Space, Science, Technology, and Communications",2023,1,613230887
+16,"Space, Science, Technology, and Communications",2023,4,620740922
+16,"Space, Science, Technology, and Communications",2024,3,581822509
+11,"Law, Crime, and Family Issues",2011,1,132299661
+11,"Law, Crime, and Family Issues",2011,4,117188301
+11,"Law, Crime, and Family Issues",2012,3,102363682
+11,"Law, Crime, and Family Issues",2013,2,92285532
+11,"Law, Crime, and Family Issues",2014,1,114416369
+12,Social Welfare,2018,4,81878144
+12,Social Welfare,2019,3,81399724
+12,Social Welfare,2020,2,80557421
+12,Social Welfare,2021,1,83221486
+12,Social Welfare,2021,4,82037434
+12,Social Welfare,2022,3,88066066
+12,Social Welfare,2023,2,71806127
+12,Social Welfare,2024,1,83322712
+12,Social Welfare,2024,4,84148815
+13,Community Development and Housing,2010,2,72631558
+13,Community Development and Housing,2011,1,53959795
+13,Community Development and Housing,2011,4,48548180
+13,Community Development and Housing,2012,3,59934284
+13,Community Development and Housing,2013,2,61216083
+13,Community Development and Housing,2014,1,60412485
+13,Community Development and Housing,2014,4,67522389
+13,Community Development and Housing,2015,3,51662934
+13,Community Development and Housing,2016,2,79751803
+13,Community Development and Housing,2017,1,79939050
+14,"Banking, Finance, and Domestic Commerce",2024,4,1395009604
+15,Defense,2011,4,352035972
+15,Defense,2012,3,383897910
+15,Defense,2013,2,333803261
+15,Defense,2014,1,404888571
+15,Defense,2014,4,370529635
+15,Defense,2015,3,370690357
+15,Defense,2016,2,382567006
+15,Defense,2017,1,373413182
+15,Defense,2017,4,400325305
+15,Defense,2018,3,395050516
+15,Defense,2019,2,389411360
+15,Defense,2020,1,442945206
+15,Defense,2020,4,430057119
+15,Defense,2021,3,424148329
+15,Defense,2022,2,441409870
+15,Defense,2023,1,479676273
+16,"Space, Science, Technology, and Communications",2010,1,532958257
+17,Foreign Trade,2017,4,316529518
+17,Foreign Trade,2018,3,334698828
+17,Foreign Trade,2019,2,341999358
+17,Foreign Trade,2020,1,366179031
+17,Foreign Trade,2020,4,317009087
+17,Foreign Trade,2021,3,305246631
+17,Foreign Trade,2022,2,318711755
+17,Foreign Trade,2023,1,324861342
+17,Foreign Trade,2023,4,324122608
+17,Foreign Trade,2024,3,308023461
+18,International Affairs and Foreign Aid,2010,1,85499840
+18,International Affairs and Foreign Aid,2010,4,89581961
+18,International Affairs and Foreign Aid,2011,3,66489342
+18,International Affairs and Foreign Aid,2012,2,81841194
+18,International Affairs and Foreign Aid,2013,1,70934374
+18,International Affairs and Foreign Aid,2013,4,83639744
+18,International Affairs and Foreign Aid,2014,3,82098678
+18,International Affairs and Foreign Aid,2015,2,60172807
+18,International Affairs and Foreign Aid,2016,1,74985744
+19,Government Operations,2023,4,565806492
+19,Government Operations,2024,3,536265309
+20,Public Lands and Water Management,2010,4,47739569
+20,Public Lands and Water Management,2011,3,61437170
+20,Public Lands and Water Management,2012,2,84700382
+11,"Law, Crime, and Family Issues",2010,3,147031269
+11,"Law, Crime, and Family Issues",2011,2,127921588
+11,"Law, Crime, and Family Issues",2012,1,132388903
+11,"Law, Crime, and Family Issues",2012,4,105835227
+11,"Law, Crime, and Family Issues",2013,3,94233504
+11,"Law, Crime, and Family Issues",2014,2,118317987
+11,"Law, Crime, and Family Issues",2015,1,111728935
+11,"Law, Crime, and Family Issues",2015,4,110356171
+11,"Law, Crime, and Family Issues",2016,3,117775662
+11,"Law, Crime, and Family Issues",2017,2,108104700
+11,"Law, Crime, and Family Issues",2018,1,121364843
+12,Social Welfare,2017,4,81207442
+12,Social Welfare,2018,3,100254518
+12,Social Welfare,2019,2,89169326
+12,Social Welfare,2020,1,91130606
+12,Social Welfare,2020,4,93610409
+12,Social Welfare,2021,3,83390314
+12,Social Welfare,2022,2,79745360
+12,Social Welfare,2023,1,77072259
+12,Social Welfare,2023,4,83758631
+12,Social Welfare,2024,3,69809769
+13,Community Development and Housing,2012,4,62548239
+13,Community Development and Housing,2013,3,60023674
+13,Community Development and Housing,2014,2,78870222
+13,Community Development and Housing,2015,1,54397357
+13,Community Development and Housing,2015,4,82577296
+13,Community Development and Housing,2016,3,101561980
+13,Community Development and Housing,2017,2,62803958
+13,Community Development and Housing,2018,1,72114463
+13,Community Development and Housing,2018,4,82340847
+13,Community Development and Housing,2019,3,61245523
+13,Community Development and Housing,2020,2,74924790
+13,Community Development and Housing,2021,1,78339198
+14,"Banking, Finance, and Domestic Commerce",2020,4,1340896239
+14,"Banking, Finance, and Domestic Commerce",2021,3,1250478031
+14,"Banking, Finance, and Domestic Commerce",2022,2,1326364565
+14,"Banking, Finance, and Domestic Commerce",2023,1,1450319528
+14,"Banking, Finance, and Domestic Commerce",2023,4,1367131522
+14,"Banking, Finance, and Domestic Commerce",2024,3,1341219790
+15,Defense,2015,4,369808880
+15,Defense,2016,3,380537029
+15,Defense,2017,2,378822749
+15,Defense,2018,1,416540661
+15,Defense,2018,4,384634191
+15,Defense,2019,3,389570362
+15,Defense,2020,2,406047591
+15,Defense,2021,1,405397353
+15,Defense,2021,4,454732651
+15,Defense,2022,3,446037105
+15,Defense,2023,2,470787279
+15,Defense,2024,1,521640838
+15,Defense,2024,4,484891731
+17,Foreign Trade,2021,4,314396991
+17,Foreign Trade,2022,3,315990355
+17,Foreign Trade,2023,2,314197400
+17,Foreign Trade,2024,1,358032697
+17,Foreign Trade,2024,4,330934807
+18,International Affairs and Foreign Aid,2010,3,77222001
+18,International Affairs and Foreign Aid,2011,2,67831483
+18,International Affairs and Foreign Aid,2012,1,77351870
+20,Public Lands and Water Management,2010,3,63059904
+20,Public Lands and Water Management,2011,2,65188448
+20,Public Lands and Water Management,2012,1,97819699
+8,Energy,2023,4,279609584
+8,Energy,2024,3,257273016
+9,Immigration,2010,1,81496073
+9,Immigration,2010,4,88118175
+9,Immigration,2011,3,71581160
+9,Immigration,2012,2,99683877
+9,Immigration,2013,1,118798097
+9,Immigration,2013,4,151261294
+9,Immigration,2014,3,140643385
+9,Immigration,2015,2,117657423
+9,Immigration,2016,1,108462296
+10,Transportation,2010,1,382987690
+10,Transportation,2010,4,376433494
+10,Transportation,2011,3,283511998
+10,Transportation,2012,2,372770665
+10,Transportation,2013,1,255169452
+10,Transportation,2013,4,274327935
+10,Transportation,2014,3,341690828
+10,Transportation,2015,2,365089275
+10,Transportation,2016,1,346210343
+10,Transportation,2016,4,312007497
+10,Transportation,2017,3,315162607
+10,Transportation,2018,2,344309378
+10,Transportation,2019,1,322086214
+11,"Law, Crime, and Family Issues",2023,4,130651085
+11,"Law, Crime, and Family Issues",2024,3,111395114
+13,Community Development and Housing,2016,4,77612600
+13,Community Development and Housing,2017,3,62195653
+13,Community Development and Housing,2018,2,77981393
+13,Community Development and Housing,2019,1,71033077
+13,Community Development and Housing,2019,4,85828407
+13,Community Development and Housing,2020,3,113768786
+13,Community Development and Housing,2021,2,62559732
+13,Community Development and Housing,2022,1,62849554
+13,Community Development and Housing,2022,4,74846455
+13,Community Development and Housing,2023,3,67566200
+13,Community Development and Housing,2024,2,77306743
+14,"Banking, Finance, and Domestic Commerce",2016,4,1084216674
+14,"Banking, Finance, and Domestic Commerce",2017,3,1127220310
+14,"Banking, Finance, and Domestic Commerce",2018,2,1149666672
+14,"Banking, Finance, and Domestic Commerce",2019,1,1196772202
+14,"Banking, Finance, and Domestic Commerce",2019,4,1240092905
+14,"Banking, Finance, and Domestic Commerce",2020,3,1332689001
+14,"Banking, Finance, and Domestic Commerce",2021,2,1162895426
+14,"Banking, Finance, and Domestic Commerce",2022,1,1389446917
+14,"Banking, Finance, and Domestic Commerce",2022,4,1416064251
+14,"Banking, Finance, and Domestic Commerce",2023,3,1214902186
+14,"Banking, Finance, and Domestic Commerce",2024,2,1290204379
+15,Defense,2010,3,350414110
+15,Defense,2011,2,298954554
+15,Defense,2012,1,359097729
+15,Defense,2012,4,406618393
+15,Defense,2013,3,326860488
+15,Defense,2014,2,409070911
+15,Defense,2015,1,357172726
+16,"Space, Science, Technology, and Communications",2010,3,608205157
+16,"Space, Science, Technology, and Communications",2011,2,495624084
+16,"Space, Science, Technology, and Communications",2012,1,538554075
+16,"Space, Science, Technology, and Communications",2012,4,532286192
+16,"Space, Science, Technology, and Communications",2013,3,457983239
+16,"Space, Science, Technology, and Communications",2014,2,547532020
+16,"Space, Science, Technology, and Communications",2015,1,540637436
+8,Energy,2023,3,241748321
+8,Energy,2024,2,264364560
+9,Immigration,2010,2,64256721
+9,Immigration,2011,1,64514499
+9,Immigration,2011,4,74690694
+9,Immigration,2012,3,102498545
+9,Immigration,2013,2,156676643
+9,Immigration,2014,1,139861977
+9,Immigration,2014,4,124821002
+9,Immigration,2015,3,106124127
+9,Immigration,2016,2,109830875
+9,Immigration,2017,1,129094393
+9,Immigration,2017,4,159149668
+9,Immigration,2018,3,152722751
+9,Immigration,2019,2,113385784
+9,Immigration,2020,1,115293748
+10,Transportation,2010,3,353696682
+10,Transportation,2011,2,303889623
+10,Transportation,2012,1,359323558
+10,Transportation,2012,4,360964760
+10,Transportation,2013,3,242141610
+10,Transportation,2014,2,310468768
+10,Transportation,2015,1,336735878
+11,"Law, Crime, and Family Issues",2010,1,168536467
+12,Social Welfare,2022,4,88799352
+12,Social Welfare,2023,3,65572167
+12,Social Welfare,2024,2,70083634
+13,Community Development and Housing,2017,4,89229269
+13,Community Development and Housing,2018,3,101310231
+13,Community Development and Housing,2019,2,65075852
+13,Community Development and Housing,2020,1,80341616
+13,Community Development and Housing,2020,4,122065384
+13,Community Development and Housing,2021,3,61661688
+13,Community Development and Housing,2022,2,70372411
+13,Community Development and Housing,2023,1,80022635
+13,Community Development and Housing,2023,4,75575606
+13,Community Development and Housing,2024,3,90472146
+14,"Banking, Finance, and Domestic Commerce",2015,4,1139078530
+14,"Banking, Finance, and Domestic Commerce",2016,3,1089563947
+14,"Banking, Finance, and Domestic Commerce",2017,2,1129245476
+14,"Banking, Finance, and Domestic Commerce",2018,1,1279481281
+14,"Banking, Finance, and Domestic Commerce",2018,4,1159359187
+14,"Banking, Finance, and Domestic Commerce",2019,3,1098634081
+14,"Banking, Finance, and Domestic Commerce",2020,2,1200132996
+14,"Banking, Finance, and Domestic Commerce",2021,1,1188962628
+14,"Banking, Finance, and Domestic Commerce",2021,4,1315541018
+14,"Banking, Finance, and Domestic Commerce",2022,3,1464520869
+14,"Banking, Finance, and Domestic Commerce",2023,2,1249504748
+14,"Banking, Finance, and Domestic Commerce",2024,1,1491845586
+15,Defense,2010,4,346721709
+15,Defense,2011,3,295156634
+15,Defense,2012,2,393378680
+15,Defense,2013,1,344625825
+15,Defense,2013,4,385012016
+15,Defense,2014,3,427363929
+15,Defense,2015,2,412780637
+15,Defense,2016,1,381920286
+15,Defense,2016,4,370045588
+15,Defense,2017,3,371629260
+15,Defense,2018,2,401776975
+15,Defense,2019,1,403573479
+16,"Space, Science, Technology, and Communications",2010,2,515047846
+16,"Space, Science, Technology, and Communications",2011,1,538331670
+16,"Space, Science, Technology, and Communications",2011,4,519705589
+16,"Space, Science, Technology, and Communications",2012,3,476074167
+18,International Affairs and Foreign Aid,2020,1,77591410
+19,Government Operations,2010,3,465615496
+19,Government Operations,2011,2,448123482
+19,Government Operations,2012,1,523829515
+19,Government Operations,2012,4,543948375
+19,Government Operations,2013,3,440361126
+19,Government Operations,2014,2,482785831
+19,Government Operations,2015,1,481907527
+20,Public Lands and Water Management,2010,1,82355674
+47,Biotechnology,2020,4,123563820
+47,Biotechnology,2021,3,139353524
+47,Biotechnology,2022,2,149149028
+47,Biotechnology,2023,1,139151344
+47,Biotechnology,2023,4,146869937
+47,Biotechnology,2024,3,143523810
+48,Intellectual Property,2015,4,211058611
+48,Intellectual Property,2016,3,196487134
+48,Intellectual Property,2017,2,164518846
+48,Intellectual Property,2018,1,200926808
+48,Intellectual Property,2018,4,169275576
+48,Intellectual Property,2019,3,160472155
+48,Intellectual Property,2020,2,158515387
+48,Intellectual Property,2021,1,160362746
+48,Intellectual Property,2021,4,176420641
+48,Intellectual Property,2022,3,203693168
+48,Intellectual Property,2023,2,138192340
+48,Intellectual Property,2024,1,168687786
+48,Intellectual Property,2024,4,150824919
+49,Health Systems/Hospital Systems,2010,4,599805107
+49,Health Systems/Hospital Systems,2011,3,491661073
+49,Health Systems/Hospital Systems,2012,2,532231859
+49,Health Systems/Hospital Systems,2013,1,484021543
+49,Health Systems/Hospital Systems,2013,4,517540251
+49,Health Systems/Hospital Systems,2014,3,514191023
+49,Health Systems/Hospital Systems,2015,2,487280421
+49,Health Systems/Hospital Systems,2016,1,462533822
+49,Health Systems/Hospital Systems,2016,4,460084989
+49,Health Systems/Hospital Systems,2017,3,453593449
+49,Health Systems/Hospital Systems,2018,2,485631017
+49,Health Systems/Hospital Systems,2019,1,501783210
+49,Health Systems/Hospital Systems,2019,4,498038795
+49,Health Systems/Hospital Systems,2020,3,532662978
+49,Health Systems/Hospital Systems,2021,2,497905493
+49,Health Systems/Hospital Systems,2022,1,600182271
+50,FCPA/Foreign Corrupt Practices Act,2010,2,153283097
+50,FCPA/Foreign Corrupt Practices Act,2011,1,163795207
+50,FCPA/Foreign Corrupt Practices Act,2011,4,188145846
+50,FCPA/Foreign Corrupt Practices Act,2012,3,214701860
+50,FCPA/Foreign Corrupt Practices Act,2013,2,164102325
+50,FCPA/Foreign Corrupt Practices Act,2014,1,190689973
+50,FCPA/Foreign Corrupt Practices Act,2014,4,183617886
+50,FCPA/Foreign Corrupt Practices Act,2015,3,153948603
+50,FCPA/Foreign Corrupt Practices Act,2016,2,186053223
+50,FCPA/Foreign Corrupt Practices Act,2017,1,205502665
+51,Drug Pricing,2010,3,204776247
+51,Drug Pricing,2011,2,147593241
+51,Drug Pricing,2012,1,209799777
+53,Drug Discount Programs,2022,4,177008612
+53,Drug Discount Programs,2023,3,179538939
+53,Drug Discount Programs,2024,2,182342379
+54,Center for Medicare Services (CMS),2017,4,317916969
+19,Government Operations,2010,2,458677452
+19,Government Operations,2011,1,480185511
+20,Public Lands and Water Management,2010,2,85295061
+20,Public Lands and Water Management,2011,1,58719032
+20,Public Lands and Water Management,2011,4,83082802
+20,Public Lands and Water Management,2012,3,90177160
+20,Public Lands and Water Management,2013,2,88992604
+20,Public Lands and Water Management,2014,1,95658498
+21,Culture,2021,4,13240809
+21,Culture,2022,3,9505675
+21,Culture,2023,2,12273622
+21,Culture,2024,1,11311214
+21,Culture,2024,4,13575198
+47,Biotechnology,2016,4,95719471
+47,Biotechnology,2017,3,83699942
+47,Biotechnology,2018,2,96709112
+47,Biotechnology,2019,1,106736646
+47,Biotechnology,2019,4,127996420
+47,Biotechnology,2020,3,117718192
+47,Biotechnology,2021,2,127003427
+47,Biotechnology,2022,1,158074057
+47,Biotechnology,2022,4,147470115
+47,Biotechnology,2023,3,134940733
+47,Biotechnology,2024,2,144143023
+48,Intellectual Property,2019,4,173923278
+48,Intellectual Property,2020,3,178441865
+48,Intellectual Property,2021,2,159370117
+48,Intellectual Property,2022,1,190535215
+48,Intellectual Property,2022,4,186037421
+48,Intellectual Property,2023,3,140786308
+48,Intellectual Property,2024,2,136508782
+49,Health Systems/Hospital Systems,2010,3,584641934
+49,Health Systems/Hospital Systems,2011,2,508863768
+49,Health Systems/Hospital Systems,2012,1,547655097
+49,Health Systems/Hospital Systems,2012,4,535336844
+49,Health Systems/Hospital Systems,2013,3,469157399
+49,Health Systems/Hospital Systems,2014,2,521385615
+49,Health Systems/Hospital Systems,2015,1,487488344
+49,Health Systems/Hospital Systems,2015,4,450491564
+49,Health Systems/Hospital Systems,2016,3,474427790
+49,Health Systems/Hospital Systems,2017,2,466052645
+49,Health Systems/Hospital Systems,2018,1,526281392
+50,FCPA/Foreign Corrupt Practices Act,2010,3,185364003
+50,FCPA/Foreign Corrupt Practices Act,2011,2,158142547
+50,FCPA/Foreign Corrupt Practices Act,2012,1,190064476
+50,FCPA/Foreign Corrupt Practices Act,2012,4,229052874
+50,FCPA/Foreign Corrupt Practices Act,2013,3,156622345
+50,FCPA/Foreign Corrupt Practices Act,2014,2,187556558
+50,FCPA/Foreign Corrupt Practices Act,2015,1,155261085
+50,FCPA/Foreign Corrupt Practices Act,2015,4,149991198
+50,FCPA/Foreign Corrupt Practices Act,2016,3,172534603
+50,FCPA/Foreign Corrupt Practices Act,2017,2,199416208
+50,FCPA/Foreign Corrupt Practices Act,2018,1,240806803
+50,FCPA/Foreign Corrupt Practices Act,2018,4,234142594
+50,FCPA/Foreign Corrupt Practices Act,2019,3,201665034
+50,FCPA/Foreign Corrupt Practices Act,2020,2,170927725
+50,FCPA/Foreign Corrupt Practices Act,2021,1,173610646
+52,Drug Reimbursement,2010,2,354652489
+52,Drug Reimbursement,2011,1,272467958
+53,Drug Discount Programs,2018,4,175816162
+53,Drug Discount Programs,2019,3,173927056
+53,Drug Discount Programs,2020,2,157021482
+18,International Affairs and Foreign Aid,2019,1,83895037
+18,International Affairs and Foreign Aid,2019,4,101278653
+18,International Affairs and Foreign Aid,2020,3,72659928
+18,International Affairs and Foreign Aid,2021,2,67125649
+18,International Affairs and Foreign Aid,2022,1,88328716
+18,International Affairs and Foreign Aid,2022,4,81697451
+18,International Affairs and Foreign Aid,2023,3,81732628
+18,International Affairs and Foreign Aid,2024,2,86137932
+19,Government Operations,2011,4,519161713
+19,Government Operations,2012,3,508866902
+19,Government Operations,2013,2,442573050
+19,Government Operations,2014,1,513490034
+19,Government Operations,2014,4,489241374
+19,Government Operations,2015,3,453908638
+19,Government Operations,2016,2,489879083
+19,Government Operations,2017,1,523871371
+19,Government Operations,2017,4,596213983
+19,Government Operations,2018,3,575248115
+19,Government Operations,2019,2,498452601
+19,Government Operations,2020,1,578889072
+19,Government Operations,2020,4,559506122
+19,Government Operations,2021,3,555346851
+19,Government Operations,2022,2,583534261
+19,Government Operations,2023,1,570114664
+20,Public Lands and Water Management,2022,4,71884727
+20,Public Lands and Water Management,2023,3,73146276
+20,Public Lands and Water Management,2024,2,80295087
+21,Culture,2017,4,6078572
+21,Culture,2018,3,6247682
+21,Culture,2019,2,5629285
+21,Culture,2020,1,9840543
+21,Culture,2020,4,10343657
+21,Culture,2021,3,14307544
+21,Culture,2022,2,10346950
+21,Culture,2023,1,12019437
+21,Culture,2023,4,11233109
+21,Culture,2024,3,11737014
+46,Pharmaceuticals/Drugs,2010,1,127544282
+46,Pharmaceuticals/Drugs,2010,4,110443399
+46,Pharmaceuticals/Drugs,2011,3,69038125
+46,Pharmaceuticals/Drugs,2012,2,71898100
+46,Pharmaceuticals/Drugs,2013,1,60481740
+48,Intellectual Property,2010,1,208271984
+48,Intellectual Property,2010,4,184455648
+48,Intellectual Property,2011,3,206148752
+48,Intellectual Property,2012,2,149463028
+48,Intellectual Property,2013,1,156619500
+48,Intellectual Property,2013,4,209791407
+48,Intellectual Property,2014,3,209353108
+48,Intellectual Property,2015,2,240027332
+48,Intellectual Property,2016,1,223497855
+48,Intellectual Property,2016,4,194147606
+48,Intellectual Property,2017,3,164077262
+48,Intellectual Property,2018,2,172002068
+48,Intellectual Property,2019,1,167377025
+49,Health Systems/Hospital Systems,2010,2,658939467
+49,Health Systems/Hospital Systems,2011,1,555018744
+49,Health Systems/Hospital Systems,2011,4,525413232
+49,Health Systems/Hospital Systems,2012,3,515892965
+49,Health Systems/Hospital Systems,2013,2,465576903
+49,Health Systems/Hospital Systems,2014,1,512120961
+50,FCPA/Foreign Corrupt Practices Act,2013,4,179943716
+50,FCPA/Foreign Corrupt Practices Act,2014,3,193510501
+50,FCPA/Foreign Corrupt Practices Act,2015,2,165711751
+17,Foreign Trade,2010,1,290098200
+17,Foreign Trade,2010,4,283396476
+17,Foreign Trade,2011,3,240623754
+17,Foreign Trade,2012,2,279540803
+17,Foreign Trade,2013,1,295154974
+18,International Affairs and Foreign Aid,2020,4,71945337
+18,International Affairs and Foreign Aid,2021,3,71827220
+18,International Affairs and Foreign Aid,2022,2,81903805
+18,International Affairs and Foreign Aid,2023,1,87581436
+18,International Affairs and Foreign Aid,2023,4,93502038
+18,International Affairs and Foreign Aid,2024,3,82864630
+19,Government Operations,2010,1,489278744
+19,Government Operations,2010,4,511086510
+19,Government Operations,2011,3,469621625
+19,Government Operations,2012,2,512476624
+19,Government Operations,2013,1,488755755
+19,Government Operations,2013,4,501171945
+19,Government Operations,2014,3,475230189
+19,Government Operations,2015,2,489030837
+19,Government Operations,2016,1,506406593
+19,Government Operations,2016,4,467798126
+19,Government Operations,2017,3,504091240
+19,Government Operations,2018,2,546986832
+19,Government Operations,2019,1,526629421
+21,Culture,2013,4,4595521
+21,Culture,2014,3,6568369
+21,Culture,2015,2,4190531
+21,Culture,2016,1,6086208
+21,Culture,2016,4,5464560
+21,Culture,2017,3,6262690
+21,Culture,2018,2,7425139
+21,Culture,2019,1,5447399
+21,Culture,2019,4,6136990
+21,Culture,2020,3,10216959
+21,Culture,2021,2,16173702
+21,Culture,2022,1,13920983
+21,Culture,2022,4,10149730
+21,Culture,2023,3,11425804
+21,Culture,2024,2,10914552
+46,Pharmaceuticals/Drugs,2010,2,75556907
+46,Pharmaceuticals/Drugs,2011,1,69003716
+46,Pharmaceuticals/Drugs,2011,4,81851154
+46,Pharmaceuticals/Drugs,2012,3,59707072
+46,Pharmaceuticals/Drugs,2013,2,56561183
+46,Pharmaceuticals/Drugs,2014,1,61205313
+46,Pharmaceuticals/Drugs,2014,4,60204564
+46,Pharmaceuticals/Drugs,2015,3,58325358
+46,Pharmaceuticals/Drugs,2016,2,57805284
+46,Pharmaceuticals/Drugs,2017,1,63352680
+47,Biotechnology,2024,4,148388579
+48,Intellectual Property,2011,4,187772005
+48,Intellectual Property,2012,3,154186835
+48,Intellectual Property,2013,2,161119491
+48,Intellectual Property,2014,1,228784532
+48,Intellectual Property,2014,4,188450753
+48,Intellectual Property,2015,3,215093905
+48,Intellectual Property,2016,2,203452522
+48,Intellectual Property,2017,1,182065354
+48,Intellectual Property,2017,4,182705496
+48,Intellectual Property,2018,3,178707922
+48,Intellectual Property,2019,2,163518705
+48,Intellectual Property,2020,1,186290986
+48,Intellectual Property,2020,4,171542510
+48,Intellectual Property,2021,3,168412599
+48,Intellectual Property,2022,2,179855297
+48,Intellectual Property,2023,1,157506033
+49,Health Systems/Hospital Systems,2010,1,705568371
+50,FCPA/Foreign Corrupt Practices Act,2017,4,241143531
+53,Drug Discount Programs,2021,1,156794616
+53,Drug Discount Programs,2021,4,154828773
+53,Drug Discount Programs,2022,3,183590600
+53,Drug Discount Programs,2023,2,158476981
+53,Drug Discount Programs,2024,1,189334016
+53,Drug Discount Programs,2024,4,182095547
+54,Center for Medicare Services (CMS),2021,4,314592848
+54,Center for Medicare Services (CMS),2022,3,329906123
+54,Center for Medicare Services (CMS),2023,2,305978187
+54,Center for Medicare Services (CMS),2024,1,363953686
+54,Center for Medicare Services (CMS),2024,4,295568434
+55,Biologics,2010,2,75556907
+55,Biologics,2011,1,69003716
+55,Biologics,2011,4,81851154
+55,Biologics,2012,3,59707072
+55,Biologics,2013,2,56561183
+55,Biologics,2014,1,61205313
+55,Biologics,2014,4,60204564
+55,Biologics,2015,3,58325358
+55,Biologics,2016,2,57805284
+55,Biologics,2017,1,63352680
+55,Biologics,2017,4,56996939
+55,Biologics,2018,3,62266683
+55,Biologics,2019,2,69243176
+55,Biologics,2020,1,77564956
+56,Biogenerics,2011,4,81851154
+56,Biogenerics,2012,3,59707072
+56,Biogenerics,2013,2,56561183
+56,Biogenerics,2014,1,61205313
+56,Biogenerics,2014,4,60204564
+56,Biogenerics,2015,3,58325358
+56,Biogenerics,2016,2,57805284
+56,Biogenerics,2017,1,63352680
+56,Biogenerics,2017,4,56996939
+56,Biogenerics,2018,3,62266683
+56,Biogenerics,2019,2,69243176
+56,Biogenerics,2020,1,77564956
+56,Biogenerics,2020,4,69900638
+56,Biogenerics,2021,3,65549209
+56,Biogenerics,2022,2,72260268
+56,Biogenerics,2023,1,88161930
+57,MRNA/MRNA Vaccines,2010,1,127544282
+58,Medicare Part D,2010,1,260938988
+58,Medicare Part D,2010,4,260854031
+58,Medicare Part D,2011,3,202522762
+58,Medicare Part D,2012,2,187756713
+58,Medicare Part D,2013,1,202909376
+59,Generic Drugs/Pharmaceuticals,2017,4,170741038
+59,Generic Drugs/Pharmaceuticals,2018,3,177327445
+59,Generic Drugs/Pharmaceuticals,2019,2,185587558
+59,Generic Drugs/Pharmaceuticals,2020,1,190347876
+59,Generic Drugs/Pharmaceuticals,2020,4,184402898
+59,Generic Drugs/Pharmaceuticals,2021,3,145319697
+59,Generic Drugs/Pharmaceuticals,2022,2,163606076
+59,Generic Drugs/Pharmaceuticals,2023,1,200054478
+59,Generic Drugs/Pharmaceuticals,2023,4,182911587
+59,Generic Drugs/Pharmaceuticals,2024,3,195228816
+60,Orphan Drugs,2020,4,69900638
+60,Orphan Drugs,2021,3,65549209
+60,Orphan Drugs,2022,2,72260268
+60,Orphan Drugs,2023,1,88161930
+60,Orphan Drugs,2023,4,81500519
+60,Orphan Drugs,2024,3,79948275
+61,Pharmaceutical Clinical Trials,2010,4,166428181
+61,Pharmaceutical Clinical Trials,2011,3,132062222
+61,Pharmaceutical Clinical Trials,2012,2,161504261
+61,Pharmaceutical Clinical Trials,2013,1,131409820
+61,Pharmaceutical Clinical Trials,2013,4,141018066
+61,Pharmaceutical Clinical Trials,2014,3,155659534
+16,"Space, Science, Technology, and Communications",2013,2,451207414
+16,"Space, Science, Technology, and Communications",2014,1,552029861
+18,International Affairs and Foreign Aid,2024,4,86344874
+19,Government Operations,2019,4,510342276
+19,Government Operations,2020,3,553453740
+19,Government Operations,2021,2,532077673
+19,Government Operations,2022,1,639695361
+19,Government Operations,2022,4,597547922
+19,Government Operations,2023,3,520653790
+19,Government Operations,2024,2,562972749
+20,Public Lands and Water Management,2014,4,112767539
+20,Public Lands and Water Management,2015,3,92960820
+20,Public Lands and Water Management,2016,2,110286443
+20,Public Lands and Water Management,2017,1,97034430
+20,Public Lands and Water Management,2017,4,100291569
+20,Public Lands and Water Management,2018,3,107785340
+20,Public Lands and Water Management,2019,2,92818886
+20,Public Lands and Water Management,2020,1,110048754
+20,Public Lands and Water Management,2020,4,85505949
+20,Public Lands and Water Management,2021,3,81878769
+20,Public Lands and Water Management,2022,2,69314915
+20,Public Lands and Water Management,2023,1,74685975
+20,Public Lands and Water Management,2023,4,84172379
+20,Public Lands and Water Management,2024,3,81479093
+21,Culture,2010,3,8254430
+21,Culture,2011,2,5650618
+21,Culture,2012,1,6215118
+21,Culture,2012,4,6638559
+21,Culture,2013,3,4379817
+21,Culture,2014,2,5530266
+21,Culture,2015,1,4904573
+21,Culture,2015,4,3771897
+21,Culture,2016,3,5149225
+21,Culture,2017,2,5727109
+21,Culture,2018,1,6149015
+21,Culture,2018,4,5976121
+21,Culture,2019,3,6784427
+21,Culture,2020,2,11194726
+21,Culture,2021,1,11625791
+46,Pharmaceuticals/Drugs,2010,3,92229224
+46,Pharmaceuticals/Drugs,2011,2,62214516
+46,Pharmaceuticals/Drugs,2012,1,89744385
+46,Pharmaceuticals/Drugs,2012,4,59610760
+46,Pharmaceuticals/Drugs,2013,3,55623939
+46,Pharmaceuticals/Drugs,2014,2,63708335
+46,Pharmaceuticals/Drugs,2015,1,62386593
+46,Pharmaceuticals/Drugs,2015,4,58939995
+46,Pharmaceuticals/Drugs,2016,3,56646954
+46,Pharmaceuticals/Drugs,2017,2,56632490
+46,Pharmaceuticals/Drugs,2018,1,64814103
+46,Pharmaceuticals/Drugs,2018,4,64787148
+46,Pharmaceuticals/Drugs,2019,3,77047828
+46,Pharmaceuticals/Drugs,2020,2,74731502
+46,Pharmaceuticals/Drugs,2021,1,69622778
+47,Biotechnology,2010,1,141559674
+47,Biotechnology,2010,4,98805144
+47,Biotechnology,2011,3,74314169
+47,Biotechnology,2012,2,82238885
+47,Biotechnology,2013,1,76306769
+47,Biotechnology,2013,4,95039379
+47,Biotechnology,2014,3,104031822
+47,Biotechnology,2015,2,109858350
+47,Biotechnology,2016,1,102886689
+48,Intellectual Property,2010,2,175825389
+48,Intellectual Property,2011,1,198397349
+50,FCPA/Foreign Corrupt Practices Act,2021,4,182718851
+54,Center for Medicare Services (CMS),2018,3,315196611
+54,Center for Medicare Services (CMS),2019,2,288336448
+54,Center for Medicare Services (CMS),2020,1,311494337
+54,Center for Medicare Services (CMS),2020,4,298567129
+54,Center for Medicare Services (CMS),2021,3,298602147
+54,Center for Medicare Services (CMS),2022,2,304620856
+54,Center for Medicare Services (CMS),2023,1,336372808
+54,Center for Medicare Services (CMS),2023,4,324715190
+54,Center for Medicare Services (CMS),2024,3,283826144
+55,Biologics,2012,4,59610760
+55,Biologics,2013,3,55623939
+55,Biologics,2014,2,63708335
+55,Biologics,2015,1,62386593
+55,Biologics,2015,4,58939995
+55,Biologics,2016,3,56646954
+55,Biologics,2017,2,56632490
+55,Biologics,2018,1,64814103
+55,Biologics,2018,4,64787148
+55,Biologics,2019,3,77047828
+55,Biologics,2020,2,74731502
+55,Biologics,2021,1,69622778
+55,Biologics,2021,4,72301798
+55,Biologics,2022,3,75348706
+55,Biologics,2023,2,71757261
+55,Biologics,2024,1,91170495
+56,Biogenerics,2010,1,127544282
+56,Biogenerics,2010,4,110443399
+56,Biogenerics,2011,3,69038125
+56,Biogenerics,2012,2,71898100
+56,Biogenerics,2013,1,60481740
+56,Biogenerics,2013,4,70664349
+56,Biogenerics,2014,3,63123963
+56,Biogenerics,2015,2,61666174
+56,Biogenerics,2016,1,56505631
+56,Biogenerics,2016,4,56803567
+56,Biogenerics,2017,3,55500605
+56,Biogenerics,2018,2,64746559
+56,Biogenerics,2019,1,71308915
+57,MRNA/MRNA Vaccines,2010,2,75556907
+57,MRNA/MRNA Vaccines,2011,1,69003716
+57,MRNA/MRNA Vaccines,2011,4,81851154
+57,MRNA/MRNA Vaccines,2012,3,59707072
+57,MRNA/MRNA Vaccines,2013,2,56561183
+57,MRNA/MRNA Vaccines,2014,1,61205313
+59,Generic Drugs/Pharmaceuticals,2021,4,154828773
+59,Generic Drugs/Pharmaceuticals,2022,3,183590600
+59,Generic Drugs/Pharmaceuticals,2023,2,158476981
+59,Generic Drugs/Pharmaceuticals,2024,1,189334016
+59,Generic Drugs/Pharmaceuticals,2024,4,182095547
+60,Orphan Drugs,2016,4,56803567
+60,Orphan Drugs,2017,3,55500605
+60,Orphan Drugs,2018,2,64746559
+60,Orphan Drugs,2019,1,71308915
+60,Orphan Drugs,2019,4,73846318
+60,Orphan Drugs,2020,3,71512869
+60,Orphan Drugs,2021,2,63827223
+60,Orphan Drugs,2022,1,81370666
+60,Orphan Drugs,2022,4,73693152
+60,Orphan Drugs,2023,3,78732999
+60,Orphan Drugs,2024,2,78829716
+61,Pharmaceutical Clinical Trials,2014,4,148793005
+61,Pharmaceutical Clinical Trials,2015,3,143388001
+61,Pharmaceutical Clinical Trials,2016,2,148542185
+61,Pharmaceutical Clinical Trials,2017,1,156032452
+61,Pharmaceutical Clinical Trials,2017,4,153122083
+61,Pharmaceutical Clinical Trials,2018,3,159148872
+61,Pharmaceutical Clinical Trials,2019,2,161195902
+61,Pharmaceutical Clinical Trials,2020,1,162265420
+61,Pharmaceutical Clinical Trials,2020,4,160661096
+20,Public Lands and Water Management,2013,1,78711931
+20,Public Lands and Water Management,2013,4,92903921
+20,Public Lands and Water Management,2014,3,116820201
+20,Public Lands and Water Management,2015,2,97233537
+20,Public Lands and Water Management,2016,1,92800354
+20,Public Lands and Water Management,2016,4,94318935
+20,Public Lands and Water Management,2017,3,81952574
+20,Public Lands and Water Management,2018,2,97284249
+20,Public Lands and Water Management,2019,1,104104211
+20,Public Lands and Water Management,2019,4,107792465
+20,Public Lands and Water Management,2020,3,106400663
+20,Public Lands and Water Management,2021,2,87784226
+20,Public Lands and Water Management,2022,1,74675209
+46,Pharmaceuticals/Drugs,2021,4,72301798
+46,Pharmaceuticals/Drugs,2022,3,75348706
+46,Pharmaceuticals/Drugs,2023,2,71757261
+46,Pharmaceuticals/Drugs,2024,1,91170495
+46,Pharmaceuticals/Drugs,2024,4,75777396
+47,Biotechnology,2010,2,102569211
+47,Biotechnology,2011,1,100511278
+47,Biotechnology,2011,4,74562922
+47,Biotechnology,2012,3,80835328
+47,Biotechnology,2013,2,75316829
+47,Biotechnology,2014,1,95117923
+47,Biotechnology,2014,4,103797510
+47,Biotechnology,2015,3,103328603
+47,Biotechnology,2016,2,108049655
+47,Biotechnology,2017,1,99573942
+47,Biotechnology,2017,4,87686607
+47,Biotechnology,2018,3,80628093
+47,Biotechnology,2019,2,103214141
+47,Biotechnology,2020,1,124061488
+49,Health Systems/Hospital Systems,2014,4,499578360
+49,Health Systems/Hospital Systems,2015,3,451383449
+49,Health Systems/Hospital Systems,2016,2,467878333
+49,Health Systems/Hospital Systems,2017,1,522944569
+49,Health Systems/Hospital Systems,2017,4,536081895
+49,Health Systems/Hospital Systems,2018,3,502828278
+49,Health Systems/Hospital Systems,2019,2,464613578
+49,Health Systems/Hospital Systems,2020,1,553443343
+49,Health Systems/Hospital Systems,2020,4,533226670
+49,Health Systems/Hospital Systems,2021,3,531109586
+49,Health Systems/Hospital Systems,2022,2,545945917
+49,Health Systems/Hospital Systems,2023,1,592748413
+49,Health Systems/Hospital Systems,2023,4,566557324
+49,Health Systems/Hospital Systems,2024,3,523974914
+50,FCPA/Foreign Corrupt Practices Act,2010,1,178913817
+50,FCPA/Foreign Corrupt Practices Act,2010,4,213727520
+50,FCPA/Foreign Corrupt Practices Act,2011,3,161279379
+50,FCPA/Foreign Corrupt Practices Act,2012,2,203287315
+50,FCPA/Foreign Corrupt Practices Act,2013,1,173132389
+51,Drug Pricing,2020,4,184402898
+51,Drug Pricing,2021,3,145319697
+51,Drug Pricing,2022,2,163606076
+51,Drug Pricing,2023,1,200054478
+51,Drug Pricing,2023,4,182911587
+51,Drug Pricing,2024,3,195228816
+52,Drug Reimbursement,2010,1,361046285
+52,Drug Reimbursement,2010,4,330133560
+52,Drug Reimbursement,2011,3,244320284
+52,Drug Reimbursement,2012,2,253012974
+52,Drug Reimbursement,2013,1,230649899
+16,"Space, Science, Technology, and Communications",2015,4,547924422
+16,"Space, Science, Technology, and Communications",2016,3,511831822
+16,"Space, Science, Technology, and Communications",2017,2,481619315
+16,"Space, Science, Technology, and Communications",2018,1,566692587
+19,Government Operations,2015,4,477511957
+19,Government Operations,2016,3,477521859
+19,Government Operations,2017,2,503548650
+19,Government Operations,2018,1,609135862
+19,Government Operations,2018,4,518343556
+19,Government Operations,2019,3,477753133
+19,Government Operations,2020,2,538904503
+19,Government Operations,2021,1,543618475
+19,Government Operations,2021,4,583961146
+19,Government Operations,2022,3,612704941
+19,Government Operations,2023,2,548403166
+19,Government Operations,2024,1,614120956
+19,Government Operations,2024,4,551958954
+20,Public Lands and Water Management,2018,4,98184630
+20,Public Lands and Water Management,2019,3,86394384
+20,Public Lands and Water Management,2020,2,95976629
+20,Public Lands and Water Management,2021,1,94269118
+20,Public Lands and Water Management,2021,4,71658406
+20,Public Lands and Water Management,2022,3,69629259
+20,Public Lands and Water Management,2023,2,77198472
+20,Public Lands and Water Management,2024,1,83134391
+20,Public Lands and Water Management,2024,4,90306121
+21,Culture,2010,2,9327115
+21,Culture,2011,1,6058925
+21,Culture,2011,4,6347975
+21,Culture,2012,3,9384026
+21,Culture,2013,2,10485785
+21,Culture,2014,1,4811150
+21,Culture,2014,4,5219470
+21,Culture,2015,3,3845825
+21,Culture,2016,2,5125356
+21,Culture,2017,1,5673563
+46,Pharmaceuticals/Drugs,2013,4,70664349
+46,Pharmaceuticals/Drugs,2014,3,63123963
+46,Pharmaceuticals/Drugs,2015,2,61666174
+46,Pharmaceuticals/Drugs,2016,1,56505631
+46,Pharmaceuticals/Drugs,2016,4,56803567
+46,Pharmaceuticals/Drugs,2017,3,55500605
+46,Pharmaceuticals/Drugs,2018,2,64746559
+46,Pharmaceuticals/Drugs,2019,1,71308915
+46,Pharmaceuticals/Drugs,2019,4,73846318
+46,Pharmaceuticals/Drugs,2020,3,71512869
+46,Pharmaceuticals/Drugs,2021,2,63827223
+46,Pharmaceuticals/Drugs,2022,1,81370666
+46,Pharmaceuticals/Drugs,2022,4,73693152
+46,Pharmaceuticals/Drugs,2023,3,78732999
+46,Pharmaceuticals/Drugs,2024,2,78829716
+47,Biotechnology,2010,3,218592914
+47,Biotechnology,2011,2,76981128
+47,Biotechnology,2012,1,83749784
+48,Intellectual Property,2010,3,162004395
+48,Intellectual Property,2011,2,212461196
+48,Intellectual Property,2012,1,188065882
+48,Intellectual Property,2012,4,159741495
+48,Intellectual Property,2013,3,169499603
+48,Intellectual Property,2014,2,217240843
+48,Intellectual Property,2015,1,225828553
+49,Health Systems/Hospital Systems,2022,4,579769383
+49,Health Systems/Hospital Systems,2023,3,511152886
+49,Health Systems/Hospital Systems,2024,2,527030328
+50,FCPA/Foreign Corrupt Practices Act,2018,3,244279853
+50,FCPA/Foreign Corrupt Practices Act,2019,2,195813309
+50,FCPA/Foreign Corrupt Practices Act,2020,1,190765570
+50,FCPA/Foreign Corrupt Practices Act,2020,4,180722159
+50,FCPA/Foreign Corrupt Practices Act,2021,3,176036068
+50,FCPA/Foreign Corrupt Practices Act,2022,2,191814005
+50,FCPA/Foreign Corrupt Practices Act,2023,1,185920041
+50,FCPA/Foreign Corrupt Practices Act,2023,4,201997737
+50,FCPA/Foreign Corrupt Practices Act,2024,3,178123606
+51,Drug Pricing,2010,1,191497682
+51,Drug Pricing,2010,4,213650748
+51,Drug Pricing,2011,3,160456991
+51,Drug Pricing,2012,2,185016287
+51,Drug Pricing,2013,1,159262792
+51,Drug Pricing,2013,4,178583665
+51,Drug Pricing,2014,3,182351959
+51,Drug Pricing,2015,2,163923988
+51,Drug Pricing,2016,1,158790435
+52,Drug Reimbursement,2023,4,269809046
+52,Drug Reimbursement,2024,3,254474947
+53,Drug Discount Programs,2010,4,213650748
+53,Drug Discount Programs,2011,3,160456991
+53,Drug Discount Programs,2012,2,185016287
+53,Drug Discount Programs,2013,1,159262792
+53,Drug Discount Programs,2013,4,178583665
+53,Drug Discount Programs,2014,3,182351959
+53,Drug Discount Programs,2015,2,163923988
+53,Drug Discount Programs,2016,1,158790435
+53,Drug Discount Programs,2016,4,166091157
+53,Drug Discount Programs,2017,3,154804697
+53,Drug Discount Programs,2018,2,167657799
+53,Drug Discount Programs,2019,1,180131986
+53,Drug Discount Programs,2019,4,184173166
+53,Drug Discount Programs,2020,3,192592721
+53,Drug Discount Programs,2021,2,154946257
+53,Drug Discount Programs,2022,1,165179730
+55,Biologics,2016,4,56803567
+55,Biologics,2017,3,55500605
+55,Biologics,2018,2,64746559
+55,Biologics,2019,1,71308915
+55,Biologics,2019,4,73846318
+55,Biologics,2020,3,71512869
+55,Biologics,2021,2,63827223
+55,Biologics,2022,1,81370666
+55,Biologics,2022,4,73693152
+55,Biologics,2023,3,78732999
+55,Biologics,2024,2,78829716
+56,Biogenerics,2010,3,92229224
+56,Biogenerics,2011,2,62214516
+56,Biogenerics,2012,1,89744385
+56,Biogenerics,2012,4,59610760
+56,Biogenerics,2013,3,55623939
+56,Biogenerics,2014,2,63708335
+56,Biogenerics,2015,1,62386593
+57,MRNA/MRNA Vaccines,2022,4,73693152
+57,MRNA/MRNA Vaccines,2023,3,78732999
+57,MRNA/MRNA Vaccines,2024,2,78829716
+58,Medicare Part D,2010,3,237188225
+58,Medicare Part D,2011,2,185213442
+58,Medicare Part D,2012,1,226184787
+58,Medicare Part D,2012,4,182065267
+58,Medicare Part D,2013,3,186366293
+58,Medicare Part D,2014,2,199517621
+58,Medicare Part D,2015,1,207620417
+58,Medicare Part D,2015,4,182126534
+58,Medicare Part D,2016,3,185761314
+58,Medicare Part D,2017,2,191574560
+58,Medicare Part D,2018,1,227929987
+58,Medicare Part D,2018,4,208489325
+61,Pharmaceutical Clinical Trials,2021,3,126451210
+61,Pharmaceutical Clinical Trials,2022,2,141542110
+61,Pharmaceutical Clinical Trials,2023,1,159430342
+62,Health Insurance,2010,3,404945497
+62,Health Insurance,2011,2,369594593
+62,Health Insurance,2012,1,406517760
+62,Health Insurance,2012,4,394548236
+62,Health Insurance,2013,3,358624880
+62,Health Insurance,2014,2,427200266
+62,Health Insurance,2015,1,391855188
+62,Health Insurance,2015,4,344011896
+62,Health Insurance,2016,3,341929808
+62,Health Insurance,2017,2,384980113
+62,Health Insurance,2018,1,431124570
+63,Medicaid,2010,1,605461074
+63,Medicaid,2010,4,530525578
+63,Medicaid,2011,3,449863551
+63,Medicaid,2012,2,466975598
+63,Medicaid,2013,1,456281020
+65,Pharmacy Benefit Managers (PBM),2023,4,144954047
+65,Pharmacy Benefit Managers (PBM),2024,3,148887112
+66,HIPAA,2018,4,439415572
+66,HIPAA,2019,3,430079334
+66,HIPAA,2020,2,450726291
+66,HIPAA,2021,1,462897051
+66,HIPAA,2021,4,463993962
+66,HIPAA,2022,3,519806392
+66,HIPAA,2023,2,443862873
+66,HIPAA,2024,1,506915109
+66,HIPAA,2024,4,470706749
+67,Affordable Care Act (ACA),2013,4,404672277
+67,Affordable Care Act (ACA),2014,3,425222216
+67,Affordable Care Act (ACA),2015,2,363318061
+67,Affordable Care Act (ACA),2016,1,348748999
+67,Affordable Care Act (ACA),2016,4,334931039
+67,Affordable Care Act (ACA),2017,3,375565005
+67,Affordable Care Act (ACA),2018,2,386850284
+67,Affordable Care Act (ACA),2019,1,421661321
+67,Affordable Care Act (ACA),2019,4,414347222
+67,Affordable Care Act (ACA),2020,3,461703485
+67,Affordable Care Act (ACA),2021,2,421556064
+67,Affordable Care Act (ACA),2022,1,491031064
+67,Affordable Care Act (ACA),2022,4,478055629
+67,Affordable Care Act (ACA),2023,3,405082146
+67,Affordable Care Act (ACA),2024,2,416052136
+68,Controlled Substance Act,2010,2,126612032
+68,Controlled Substance Act,2011,1,123535929
+68,Controlled Substance Act,2011,4,137335558
+68,Controlled Substance Act,2012,3,106850470
+68,Controlled Substance Act,2013,2,100262319
+68,Controlled Substance Act,2014,1,128925908
+68,Controlled Substance Act,2014,4,136811792
+68,Controlled Substance Act,2015,3,124288179
+68,Controlled Substance Act,2016,2,131776921
+68,Controlled Substance Act,2017,1,130796189
+68,Controlled Substance Act,2017,4,107829515
+68,Controlled Substance Act,2018,3,118379216
+68,Controlled Substance Act,2019,2,114849210
+68,Controlled Substance Act,2020,1,121751019
+69,Right to Try,2010,3,469677600
+69,Right to Try,2011,2,409312217
+69,Right to Try,2012,1,463849862
+69,Right to Try,2012,4,446021423
+69,Right to Try,2013,3,393867886
+69,Right to Try,2014,2,439420655
+69,Right to Try,2015,1,439439751
+70,Artificial Intelligence,2010,1,86969493
+72,Cloud Computing,2020,4,100484402
+50,FCPA/Foreign Corrupt Practices Act,2016,1,178638214
+50,FCPA/Foreign Corrupt Practices Act,2016,4,162340376
+50,FCPA/Foreign Corrupt Practices Act,2017,3,197295967
+50,FCPA/Foreign Corrupt Practices Act,2018,2,228855404
+50,FCPA/Foreign Corrupt Practices Act,2019,1,207482061
+50,FCPA/Foreign Corrupt Practices Act,2019,4,220476754
+50,FCPA/Foreign Corrupt Practices Act,2020,3,180921557
+50,FCPA/Foreign Corrupt Practices Act,2021,2,166292948
+50,FCPA/Foreign Corrupt Practices Act,2022,1,203189823
+50,FCPA/Foreign Corrupt Practices Act,2022,4,192865313
+50,FCPA/Foreign Corrupt Practices Act,2023,3,176735394
+50,FCPA/Foreign Corrupt Practices Act,2024,2,184555068
+51,Drug Pricing,2010,2,164099693
+51,Drug Pricing,2011,1,173293757
+51,Drug Pricing,2011,4,190270604
+51,Drug Pricing,2012,3,177750253
+51,Drug Pricing,2013,2,153953165
+51,Drug Pricing,2014,1,169933353
+51,Drug Pricing,2014,4,170207001
+51,Drug Pricing,2015,3,159272983
+51,Drug Pricing,2016,2,161646261
+51,Drug Pricing,2017,1,169801632
+51,Drug Pricing,2017,4,170741038
+51,Drug Pricing,2018,3,177327445
+51,Drug Pricing,2019,2,185587558
+51,Drug Pricing,2020,1,190347876
+52,Drug Reimbursement,2019,4,225330131
+52,Drug Reimbursement,2020,3,230414434
+52,Drug Reimbursement,2021,2,201180469
+52,Drug Reimbursement,2022,1,262113410
+52,Drug Reimbursement,2022,4,251584507
+52,Drug Reimbursement,2023,3,235596223
+52,Drug Reimbursement,2024,2,244456817
+53,Drug Discount Programs,2014,4,170207001
+53,Drug Discount Programs,2015,3,159272983
+53,Drug Discount Programs,2016,2,161646261
+53,Drug Discount Programs,2017,1,169801632
+53,Drug Discount Programs,2017,4,170741038
+53,Drug Discount Programs,2018,3,177327445
+53,Drug Discount Programs,2019,2,185587558
+53,Drug Discount Programs,2020,1,190347876
+53,Drug Discount Programs,2020,4,184402898
+53,Drug Discount Programs,2021,3,145319697
+53,Drug Discount Programs,2022,2,163606076
+53,Drug Discount Programs,2023,1,200054478
+53,Drug Discount Programs,2023,4,182911587
+53,Drug Discount Programs,2024,3,195228816
+55,Biologics,2020,4,69900638
+55,Biologics,2021,3,65549209
+55,Biologics,2022,2,72260268
+55,Biologics,2023,1,88161930
+55,Biologics,2023,4,81500519
+55,Biologics,2024,3,79948275
+56,Biogenerics,2010,2,75556907
+56,Biogenerics,2011,1,69003716
+57,MRNA/MRNA Vaccines,2023,4,81500519
+57,MRNA/MRNA Vaccines,2024,3,79948275
+58,Medicare Part D,2010,2,199489363
+58,Medicare Part D,2011,1,206097531
+58,Medicare Part D,2011,4,207849088
+58,Medicare Part D,2012,3,176581283
+58,Medicare Part D,2013,2,180402264
+58,Medicare Part D,2014,1,212721721
+58,Medicare Part D,2014,4,190305603
+58,Medicare Part D,2015,3,184329788
+58,Medicare Part D,2016,2,183405338
+58,Medicare Part D,2017,1,213806941
+52,Drug Reimbursement,2013,4,253822308
+52,Drug Reimbursement,2014,3,249374169
+52,Drug Reimbursement,2015,2,222258043
+52,Drug Reimbursement,2016,1,205316832
+52,Drug Reimbursement,2016,4,208909986
+52,Drug Reimbursement,2017,3,184394108
+52,Drug Reimbursement,2018,2,212203455
+52,Drug Reimbursement,2019,1,217053662
+54,Center for Medicare Services (CMS),2013,4,247587872
+54,Center for Medicare Services (CMS),2014,3,260465333
+54,Center for Medicare Services (CMS),2015,2,266507782
+54,Center for Medicare Services (CMS),2016,1,265338657
+54,Center for Medicare Services (CMS),2016,4,237727342
+54,Center for Medicare Services (CMS),2017,3,279494676
+54,Center for Medicare Services (CMS),2018,2,287428816
+54,Center for Medicare Services (CMS),2019,1,305201784
+54,Center for Medicare Services (CMS),2019,4,292384248
+54,Center for Medicare Services (CMS),2020,3,292977743
+54,Center for Medicare Services (CMS),2021,2,278181923
+54,Center for Medicare Services (CMS),2022,1,337632637
+54,Center for Medicare Services (CMS),2022,4,318850647
+54,Center for Medicare Services (CMS),2023,3,299912511
+54,Center for Medicare Services (CMS),2024,2,308005596
+55,Biologics,2010,3,92229224
+55,Biologics,2011,2,62214516
+55,Biologics,2012,1,89744385
+56,Biogenerics,2019,4,73846318
+56,Biogenerics,2020,3,71512869
+56,Biogenerics,2021,2,63827223
+56,Biogenerics,2022,1,81370666
+56,Biogenerics,2022,4,73693152
+56,Biogenerics,2023,3,78732999
+56,Biogenerics,2024,2,78829716
+57,MRNA/MRNA Vaccines,2010,3,92229224
+57,MRNA/MRNA Vaccines,2011,2,62214516
+57,MRNA/MRNA Vaccines,2012,1,89744385
+57,MRNA/MRNA Vaccines,2012,4,59610760
+57,MRNA/MRNA Vaccines,2013,3,55623939
+57,MRNA/MRNA Vaccines,2014,2,63708335
+57,MRNA/MRNA Vaccines,2015,1,62386593
+57,MRNA/MRNA Vaccines,2015,4,58939995
+57,MRNA/MRNA Vaccines,2016,3,56646954
+57,MRNA/MRNA Vaccines,2017,2,56632490
+57,MRNA/MRNA Vaccines,2018,1,64814103
+58,Medicare Part D,2022,4,254239338
+58,Medicare Part D,2023,3,260008904
+58,Medicare Part D,2024,2,264196847
+59,Generic Drugs/Pharmaceuticals,2012,4,173299595
+59,Generic Drugs/Pharmaceuticals,2013,3,152911069
+59,Generic Drugs/Pharmaceuticals,2014,2,170088939
+59,Generic Drugs/Pharmaceuticals,2015,1,170327571
+59,Generic Drugs/Pharmaceuticals,2015,4,161426260
+59,Generic Drugs/Pharmaceuticals,2016,3,174437455
+59,Generic Drugs/Pharmaceuticals,2017,2,157979503
+59,Generic Drugs/Pharmaceuticals,2018,1,172576931
+59,Generic Drugs/Pharmaceuticals,2018,4,175816162
+59,Generic Drugs/Pharmaceuticals,2019,3,173927056
+59,Generic Drugs/Pharmaceuticals,2020,2,157021482
+59,Generic Drugs/Pharmaceuticals,2021,1,156794616
+60,Orphan Drugs,2010,2,75556907
+60,Orphan Drugs,2011,1,69003716
+61,Pharmaceutical Clinical Trials,2015,4,145411933
+61,Pharmaceutical Clinical Trials,2016,3,158379747
+61,Pharmaceutical Clinical Trials,2015,2,144101624
+61,Pharmaceutical Clinical Trials,2016,1,141131976
+61,Pharmaceutical Clinical Trials,2016,4,150831632
+61,Pharmaceutical Clinical Trials,2017,3,139455924
+61,Pharmaceutical Clinical Trials,2018,2,148181216
+61,Pharmaceutical Clinical Trials,2019,1,155366397
+62,Health Insurance,2013,4,404672277
+62,Health Insurance,2014,3,425222216
+62,Health Insurance,2015,2,363318061
+62,Health Insurance,2016,1,348748999
+62,Health Insurance,2016,4,334931039
+62,Health Insurance,2017,3,375565005
+62,Health Insurance,2018,2,386850284
+62,Health Insurance,2019,1,421661321
+62,Health Insurance,2019,4,414347222
+62,Health Insurance,2020,3,461703485
+62,Health Insurance,2021,2,421556064
+62,Health Insurance,2022,1,491031064
+64,Medicare,2010,3,502089578
+64,Medicare,2011,2,446932418
+64,Medicare,2012,1,480234872
+65,Pharmacy Benefit Managers (PBM),2019,4,141638558
+65,Pharmacy Benefit Managers (PBM),2020,3,159454941
+65,Pharmacy Benefit Managers (PBM),2021,2,124831040
+65,Pharmacy Benefit Managers (PBM),2022,1,152962203
+65,Pharmacy Benefit Managers (PBM),2022,4,149870753
+65,Pharmacy Benefit Managers (PBM),2023,3,129525483
+65,Pharmacy Benefit Managers (PBM),2024,2,133478625
+66,HIPAA,2022,4,505193488
+66,HIPAA,2023,3,455095602
+66,HIPAA,2024,2,464915890
+67,Affordable Care Act (ACA),2010,3,404945497
+67,Affordable Care Act (ACA),2011,2,369594593
+67,Affordable Care Act (ACA),2012,1,406517760
+67,Affordable Care Act (ACA),2012,4,394548236
+67,Affordable Care Act (ACA),2013,3,358624880
+67,Affordable Care Act (ACA),2014,2,427200266
+67,Affordable Care Act (ACA),2015,1,391855188
+67,Affordable Care Act (ACA),2015,4,344011896
+67,Affordable Care Act (ACA),2016,3,341929808
+67,Affordable Care Act (ACA),2017,2,384980113
+67,Affordable Care Act (ACA),2018,1,431124570
+67,Affordable Care Act (ACA),2018,4,384427055
+67,Affordable Care Act (ACA),2019,3,394302983
+67,Affordable Care Act (ACA),2020,2,430841834
+67,Affordable Care Act (ACA),2021,1,438765331
+68,Controlled Substance Act,2012,4,105429711
+68,Controlled Substance Act,2013,3,106387074
+68,Controlled Substance Act,2014,2,133563739
+68,Controlled Substance Act,2015,1,131170031
+68,Controlled Substance Act,2015,4,119656334
+68,Controlled Substance Act,2016,3,121341275
+68,Controlled Substance Act,2017,2,106259174
+68,Controlled Substance Act,2018,1,121460672
+68,Controlled Substance Act,2018,4,136116762
+68,Controlled Substance Act,2019,3,120320329
+68,Controlled Substance Act,2020,2,139781684
+68,Controlled Substance Act,2021,1,122203666
+68,Controlled Substance Act,2021,4,134562579
+68,Controlled Substance Act,2022,3,116832834
+68,Controlled Substance Act,2023,2,135504088
+68,Controlled Substance Act,2024,1,171893109
+69,Right to Try,2010,2,468386671
+69,Right to Try,2011,1,455844543
+58,Medicare Part D,2019,3,224963887
+58,Medicare Part D,2020,2,222196774
+58,Medicare Part D,2021,1,249499200
+60,Orphan Drugs,2015,4,58939995
+60,Orphan Drugs,2016,3,56646954
+60,Orphan Drugs,2017,2,56632490
+60,Orphan Drugs,2018,1,64814103
+60,Orphan Drugs,2018,4,64787148
+60,Orphan Drugs,2019,3,77047828
+60,Orphan Drugs,2020,2,74731502
+60,Orphan Drugs,2021,1,69622778
+60,Orphan Drugs,2021,4,72301798
+60,Orphan Drugs,2022,3,75348706
+60,Orphan Drugs,2023,2,71757261
+60,Orphan Drugs,2024,1,91170495
+61,Pharmaceutical Clinical Trials,2010,2,133447164
+61,Pharmaceutical Clinical Trials,2011,1,140948843
+61,Pharmaceutical Clinical Trials,2011,4,145861216
+61,Pharmaceutical Clinical Trials,2012,3,158828923
+61,Pharmaceutical Clinical Trials,2013,2,130603990
+61,Pharmaceutical Clinical Trials,2014,1,140946006
+62,Health Insurance,2018,4,384427055
+62,Health Insurance,2019,3,394302983
+62,Health Insurance,2020,2,430841834
+62,Health Insurance,2021,1,438765331
+62,Health Insurance,2021,4,450853208
+62,Health Insurance,2022,3,499783490
+62,Health Insurance,2023,2,415085562
+62,Health Insurance,2024,1,478869424
+62,Health Insurance,2024,4,438384790
+63,Medicaid,2010,2,503776341
+63,Medicaid,2011,1,488648317
+63,Medicaid,2011,4,454676985
+63,Medicaid,2012,3,434970600
+63,Medicaid,2013,2,419163471
+63,Medicaid,2014,1,483158527
+63,Medicaid,2014,4,448783352
+63,Medicaid,2015,3,432091264
+63,Medicaid,2016,2,445666705
+63,Medicaid,2017,1,522519172
+64,Medicare,2024,4,539250339
+65,Pharmacy Benefit Managers (PBM),2011,4,137374441
+65,Pharmacy Benefit Managers (PBM),2012,3,125562583
+65,Pharmacy Benefit Managers (PBM),2013,2,109837976
+65,Pharmacy Benefit Managers (PBM),2014,1,134807978
+65,Pharmacy Benefit Managers (PBM),2014,4,141672665
+65,Pharmacy Benefit Managers (PBM),2015,3,110110010
+65,Pharmacy Benefit Managers (PBM),2016,2,82357754
+65,Pharmacy Benefit Managers (PBM),2017,1,116856565
+65,Pharmacy Benefit Managers (PBM),2017,4,119823034
+65,Pharmacy Benefit Managers (PBM),2018,3,115066548
+65,Pharmacy Benefit Managers (PBM),2019,2,134579526
+65,Pharmacy Benefit Managers (PBM),2020,1,148109521
+65,Pharmacy Benefit Managers (PBM),2020,4,156189005
+65,Pharmacy Benefit Managers (PBM),2021,3,130591687
+65,Pharmacy Benefit Managers (PBM),2022,2,134742469
+65,Pharmacy Benefit Managers (PBM),2023,1,176257669
+66,HIPAA,2010,1,536019768
+67,Affordable Care Act (ACA),2017,4,425438015
+67,Affordable Care Act (ACA),2018,3,399683277
+67,Affordable Care Act (ACA),2019,2,394210289
+67,Affordable Care Act (ACA),2020,1,461365345
+67,Affordable Care Act (ACA),2020,4,459777592
+67,Affordable Care Act (ACA),2021,3,440502061
+67,Affordable Care Act (ACA),2022,2,447816026
+67,Affordable Care Act (ACA),2023,1,484715022
+67,Affordable Care Act (ACA),2023,4,441702325
+72,Cloud Computing,2021,3,116013163
+72,Cloud Computing,2022,2,124050877
+72,Cloud Computing,2023,1,115382447
+72,Cloud Computing,2023,4,122417033
+72,Cloud Computing,2024,3,120098450
+61,Pharmaceutical Clinical Trials,2017,2,141727577
+61,Pharmaceutical Clinical Trials,2018,1,153266240
+61,Pharmaceutical Clinical Trials,2018,4,152691020
+61,Pharmaceutical Clinical Trials,2019,3,145412470
+61,Pharmaceutical Clinical Trials,2020,2,134523200
+61,Pharmaceutical Clinical Trials,2021,1,133435722
+61,Pharmaceutical Clinical Trials,2021,4,128381595
+61,Pharmaceutical Clinical Trials,2022,3,161128346
+61,Pharmaceutical Clinical Trials,2023,2,133464378
+61,Pharmaceutical Clinical Trials,2024,1,151653799
+61,Pharmaceutical Clinical Trials,2024,4,149002425
+62,Health Insurance,2010,2,441657829
+62,Health Insurance,2011,1,413052944
+62,Health Insurance,2011,4,384202338
+62,Health Insurance,2012,3,383951900
+62,Health Insurance,2013,2,348599183
+62,Health Insurance,2014,1,405244784
+63,Medicaid,2021,4,563468242
+63,Medicaid,2022,3,593480209
+63,Medicaid,2023,2,535700558
+63,Medicaid,2024,1,633633175
+63,Medicaid,2024,4,539250339
+64,Medicare,2010,2,503776341
+64,Medicare,2011,1,488648317
+64,Medicare,2011,4,454676985
+64,Medicare,2012,3,434970600
+64,Medicare,2013,2,419163471
+64,Medicare,2014,1,483158527
+64,Medicare,2014,4,448783352
+64,Medicare,2015,3,432091264
+64,Medicare,2016,2,445666705
+64,Medicare,2017,1,522519172
+64,Medicare,2017,4,504278652
+64,Medicare,2018,3,485409832
+64,Medicare,2019,2,476010008
+64,Medicare,2020,1,564399707
+66,HIPAA,2014,4,428684750
+66,HIPAA,2015,3,407034459
+66,HIPAA,2016,2,423907628
+66,HIPAA,2017,1,478513863
+66,HIPAA,2017,4,476356019
+66,HIPAA,2018,3,461944174
+66,HIPAA,2019,2,445218321
+66,HIPAA,2020,1,503603700
+66,HIPAA,2020,4,487991485
+66,HIPAA,2021,3,455230071
+66,HIPAA,2022,2,476679633
+66,HIPAA,2023,1,508511831
+66,HIPAA,2023,4,479659865
+66,HIPAA,2024,3,464728783
+67,Affordable Care Act (ACA),2010,1,499840208
+67,Affordable Care Act (ACA),2010,4,455968791
+67,Affordable Care Act (ACA),2011,3,362207565
+67,Affordable Care Act (ACA),2012,2,406142048
+67,Affordable Care Act (ACA),2013,1,363608542
+68,Controlled Substance Act,2020,4,140168029
+68,Controlled Substance Act,2021,3,132519847
+68,Controlled Substance Act,2022,2,108345264
+68,Controlled Substance Act,2023,1,151516660
+68,Controlled Substance Act,2023,4,151999112
+68,Controlled Substance Act,2024,3,132525904
+69,Right to Try,2010,1,536019768
+69,Right to Try,2010,4,483322295
+69,Right to Try,2011,3,407797780
+69,Right to Try,2012,2,464235172
+69,Right to Try,2013,1,412634436
+69,Right to Try,2013,4,442301608
+69,Right to Try,2014,3,447168813
+69,Right to Try,2015,2,428946366
+69,Right to Try,2016,1,416007425
+69,Right to Try,2016,4,417266160
+69,Right to Try,2017,3,424004038
+69,Right to Try,2018,2,441085361
+70,Artificial Intelligence,2010,2,80117022
+70,Artificial Intelligence,2011,1,82181877
+70,Artificial Intelligence,2011,4,55842039
+70,Artificial Intelligence,2012,3,60442457
+70,Artificial Intelligence,2013,2,58710825
+70,Artificial Intelligence,2014,1,79008940
+71,Cybersecurity,2021,4,128541437
+71,Cybersecurity,2022,3,127885731
+71,Cybersecurity,2023,2,120414423
+71,Cybersecurity,2024,1,137997068
+71,Cybersecurity,2024,4,127046442
+72,Cloud Computing,2024,4,127046442
+50,FCPA/Foreign Corrupt Practices Act,2022,3,202662715
+50,FCPA/Foreign Corrupt Practices Act,2023,2,198331402
+50,FCPA/Foreign Corrupt Practices Act,2024,1,216963859
+50,FCPA/Foreign Corrupt Practices Act,2024,4,185709430
+51,Drug Pricing,2016,4,166091157
+51,Drug Pricing,2017,3,154804697
+51,Drug Pricing,2018,2,167657799
+51,Drug Pricing,2019,1,180131986
+51,Drug Pricing,2019,4,184173166
+51,Drug Pricing,2020,3,192592721
+51,Drug Pricing,2021,2,154946257
+51,Drug Pricing,2022,1,165179730
+51,Drug Pricing,2022,4,177008612
+51,Drug Pricing,2023,3,179538939
+51,Drug Pricing,2024,2,182342379
+52,Drug Reimbursement,2011,4,278585335
+52,Drug Reimbursement,2012,3,257503648
+52,Drug Reimbursement,2013,2,226815696
+52,Drug Reimbursement,2014,1,241684155
+52,Drug Reimbursement,2014,4,241100611
+52,Drug Reimbursement,2015,3,203621973
+52,Drug Reimbursement,2016,2,205616966
+52,Drug Reimbursement,2017,1,214232338
+52,Drug Reimbursement,2017,4,230466914
+52,Drug Reimbursement,2018,3,218211549
+52,Drug Reimbursement,2019,2,204982815
+52,Drug Reimbursement,2020,1,240187519
+52,Drug Reimbursement,2020,4,229638083
+52,Drug Reimbursement,2021,3,221199212
+52,Drug Reimbursement,2022,2,232872360
+52,Drug Reimbursement,2023,1,284291060
+53,Drug Discount Programs,2010,3,204776247
+53,Drug Discount Programs,2011,2,147593241
+53,Drug Discount Programs,2012,1,209799777
+53,Drug Discount Programs,2012,4,173299595
+53,Drug Discount Programs,2013,3,152911069
+53,Drug Discount Programs,2014,2,170088939
+53,Drug Discount Programs,2015,1,170327571
+53,Drug Discount Programs,2015,4,161426260
+53,Drug Discount Programs,2016,3,174437455
+53,Drug Discount Programs,2017,2,157979503
+53,Drug Discount Programs,2018,1,172576931
+54,Center for Medicare Services (CMS),2010,1,281398864
+54,Center for Medicare Services (CMS),2010,4,306166607
+54,Center for Medicare Services (CMS),2011,3,248596352
+54,Center for Medicare Services (CMS),2012,2,261497771
+54,Center for Medicare Services (CMS),2013,1,260940035
+56,Biogenerics,2023,4,81500519
+56,Biogenerics,2024,3,79948275
+57,MRNA/MRNA Vaccines,2018,4,64787148
+57,MRNA/MRNA Vaccines,2019,3,77047828
+57,MRNA/MRNA Vaccines,2020,2,74731502
+57,MRNA/MRNA Vaccines,2021,1,69622778
+57,MRNA/MRNA Vaccines,2021,4,72301798
+57,MRNA/MRNA Vaccines,2022,3,75348706
+57,MRNA/MRNA Vaccines,2023,2,71757261
+57,MRNA/MRNA Vaccines,2024,1,91170495
+57,MRNA/MRNA Vaccines,2024,4,75777396
+58,Medicare Part D,2013,4,205398874
+58,Medicare Part D,2014,3,193961704
+58,Medicare Part D,2015,2,201713107
+58,Medicare Part D,2016,1,198768232
+58,Medicare Part D,2016,4,176737852
+58,Medicare Part D,2017,3,185650242
+58,Medicare Part D,2018,2,194536879
+58,Medicare Part D,2019,1,229652012
+58,Medicare Part D,2019,4,224090152
+51,Drug Pricing,2012,4,173299595
+51,Drug Pricing,2013,3,152911069
+51,Drug Pricing,2014,2,170088939
+51,Drug Pricing,2015,1,170327571
+51,Drug Pricing,2015,4,161426260
+51,Drug Pricing,2016,3,174437455
+51,Drug Pricing,2017,2,157979503
+51,Drug Pricing,2018,1,172576931
+51,Drug Pricing,2018,4,175816162
+51,Drug Pricing,2019,3,173927056
+51,Drug Pricing,2020,2,157021482
+51,Drug Pricing,2021,1,156794616
+51,Drug Pricing,2021,4,154828773
+51,Drug Pricing,2022,3,183590600
+51,Drug Pricing,2023,2,158476981
+51,Drug Pricing,2024,1,189334016
+52,Drug Reimbursement,2015,4,212735288
+52,Drug Reimbursement,2016,3,214916226
+52,Drug Reimbursement,2017,2,189193637
+52,Drug Reimbursement,2018,1,218945880
+52,Drug Reimbursement,2018,4,212787487
+52,Drug Reimbursement,2019,3,206457613
+52,Drug Reimbursement,2020,2,214640177
+52,Drug Reimbursement,2021,1,205459179
+52,Drug Reimbursement,2021,4,234548685
+52,Drug Reimbursement,2022,3,266603150
+52,Drug Reimbursement,2023,2,230941197
+52,Drug Reimbursement,2024,1,280399677
+52,Drug Reimbursement,2024,4,262698317
+53,Drug Discount Programs,2010,2,164099693
+53,Drug Discount Programs,2011,1,173293757
+53,Drug Discount Programs,2011,4,190270604
+53,Drug Discount Programs,2012,3,177750253
+53,Drug Discount Programs,2013,2,153953165
+53,Drug Discount Programs,2014,1,169933353
+54,Center for Medicare Services (CMS),2010,2,235305151
+54,Center for Medicare Services (CMS),2011,1,259345140
+54,Center for Medicare Services (CMS),2011,4,254740828
+54,Center for Medicare Services (CMS),2012,3,265713524
+54,Center for Medicare Services (CMS),2013,2,235594152
+54,Center for Medicare Services (CMS),2014,1,274295850
+54,Center for Medicare Services (CMS),2014,4,256425536
+54,Center for Medicare Services (CMS),2015,3,247786980
+54,Center for Medicare Services (CMS),2016,2,256988970
+54,Center for Medicare Services (CMS),2017,1,302898583
+55,Biologics,2024,4,75777396
+56,Biogenerics,2024,4,75777396
+57,MRNA/MRNA Vaccines,2014,4,60204564
+57,MRNA/MRNA Vaccines,2015,3,58325358
+57,MRNA/MRNA Vaccines,2016,2,57805284
+57,MRNA/MRNA Vaccines,2017,1,63352680
+57,MRNA/MRNA Vaccines,2017,4,56996939
+57,MRNA/MRNA Vaccines,2018,3,62266683
+57,MRNA/MRNA Vaccines,2019,2,69243176
+57,MRNA/MRNA Vaccines,2020,1,77564956
+57,MRNA/MRNA Vaccines,2020,4,69900638
+57,MRNA/MRNA Vaccines,2021,3,65549209
+57,MRNA/MRNA Vaccines,2022,2,72260268
+57,MRNA/MRNA Vaccines,2023,1,88161930
+58,Medicare Part D,2017,4,198663671
+58,Medicare Part D,2018,3,200793103
+58,Medicare Part D,2019,2,216379245
+58,Medicare Part D,2020,1,251143883
+58,Medicare Part D,2020,4,236611527
+58,Medicare Part D,2021,3,236602147
+58,Medicare Part D,2022,2,241872773
+58,Medicare Part D,2023,1,302427236
+59,Generic Drugs/Pharmaceuticals,2010,3,204776247
+59,Generic Drugs/Pharmaceuticals,2011,2,147593241
+59,Generic Drugs/Pharmaceuticals,2012,1,209799777
+60,Orphan Drugs,2011,4,81851154
+60,Orphan Drugs,2012,3,59707072
+60,Orphan Drugs,2013,2,56561183
+60,Orphan Drugs,2014,1,61205313
+60,Orphan Drugs,2014,4,60204564
+60,Orphan Drugs,2015,3,58325358
+60,Orphan Drugs,2016,2,57805284
+60,Orphan Drugs,2017,1,63352680
+60,Orphan Drugs,2017,4,56996939
+60,Orphan Drugs,2018,3,62266683
+60,Orphan Drugs,2019,2,69243176
+60,Orphan Drugs,2020,1,77564956
+61,Pharmaceutical Clinical Trials,2010,3,157989993
+61,Pharmaceutical Clinical Trials,2011,2,129368817
+61,Pharmaceutical Clinical Trials,2012,1,157516030
+61,Pharmaceutical Clinical Trials,2012,4,157679565
+61,Pharmaceutical Clinical Trials,2013,3,126089422
+61,Pharmaceutical Clinical Trials,2014,2,138832456
+61,Pharmaceutical Clinical Trials,2015,1,148091002
+62,Health Insurance,2014,4,400150414
+62,Health Insurance,2015,3,357871486
+62,Health Insurance,2016,2,344619121
+62,Health Insurance,2017,1,425568796
+62,Health Insurance,2017,4,425438015
+62,Health Insurance,2018,3,399683277
+62,Health Insurance,2019,2,394210289
+62,Health Insurance,2020,1,461365345
+62,Health Insurance,2020,4,459777592
+62,Health Insurance,2021,3,440502061
+62,Health Insurance,2022,2,447816026
+62,Health Insurance,2023,1,484715022
+62,Health Insurance,2023,4,441702325
+62,Health Insurance,2024,3,418387079
+63,Medicaid,2010,3,502089578
+63,Medicaid,2011,2,446932418
+63,Medicaid,2012,1,480234872
+63,Medicaid,2012,4,454787095
+63,Medicaid,2013,3,427323110
+63,Medicaid,2014,2,468849337
+63,Medicaid,2015,1,476732597
+63,Medicaid,2015,4,419882810
+63,Medicaid,2016,3,445272878
+63,Medicaid,2017,2,468433568
+63,Medicaid,2018,1,535265499
+63,Medicaid,2018,4,472088735
+63,Medicaid,2019,3,481116165
+63,Medicaid,2020,2,515901583
+63,Medicaid,2021,1,555601635
+64,Medicare,2020,4,540200114
+64,Medicare,2021,3,546512521
+64,Medicare,2022,2,554946330
+64,Medicare,2023,1,610884589
+64,Medicare,2023,4,570015384
+64,Medicare,2024,3,514590050
+65,Pharmacy Benefit Managers (PBM),2015,4,106255620
+65,Pharmacy Benefit Managers (PBM),2016,3,82418244
+65,Pharmacy Benefit Managers (PBM),2017,2,108121105
+65,Pharmacy Benefit Managers (PBM),2018,1,123789058
+65,Pharmacy Benefit Managers (PBM),2018,4,120827645
+65,Pharmacy Benefit Managers (PBM),2019,3,138150705
+65,Pharmacy Benefit Managers (PBM),2020,2,137137025
+65,Pharmacy Benefit Managers (PBM),2021,1,132662896
+65,Pharmacy Benefit Managers (PBM),2021,4,141688019
+65,Pharmacy Benefit Managers (PBM),2022,3,163567698
+65,Pharmacy Benefit Managers (PBM),2023,2,129699670
+65,Pharmacy Benefit Managers (PBM),2024,1,161288331
+58,Medicare Part D,2020,3,231281231
+58,Medicare Part D,2021,2,220583562
+58,Medicare Part D,2022,1,278100062
+59,Generic Drugs/Pharmaceuticals,2010,2,164099693
+59,Generic Drugs/Pharmaceuticals,2011,1,173293757
+59,Generic Drugs/Pharmaceuticals,2011,4,190270604
+59,Generic Drugs/Pharmaceuticals,2012,3,177750253
+59,Generic Drugs/Pharmaceuticals,2013,2,153953165
+59,Generic Drugs/Pharmaceuticals,2014,1,169933353
+59,Generic Drugs/Pharmaceuticals,2014,4,170207001
+59,Generic Drugs/Pharmaceuticals,2015,3,159272983
+59,Generic Drugs/Pharmaceuticals,2016,2,161646261
+59,Generic Drugs/Pharmaceuticals,2017,1,169801632
+60,Orphan Drugs,2010,3,92229224
+60,Orphan Drugs,2011,2,62214516
+60,Orphan Drugs,2012,1,89744385
+60,Orphan Drugs,2012,4,59610760
+60,Orphan Drugs,2013,3,55623939
+60,Orphan Drugs,2014,2,63708335
+60,Orphan Drugs,2015,1,62386593
+61,Pharmaceutical Clinical Trials,2010,1,173133762
+62,Health Insurance,2022,4,478055629
+62,Health Insurance,2023,3,405082146
+62,Health Insurance,2024,2,416052136
+63,Medicaid,2017,4,504278652
+63,Medicaid,2018,3,485409832
+63,Medicaid,2019,2,476010008
+63,Medicaid,2020,1,564399707
+63,Medicaid,2020,4,540200114
+63,Medicaid,2021,3,546512521
+63,Medicaid,2022,2,554946330
+63,Medicaid,2023,1,610884589
+63,Medicaid,2023,4,570015384
+63,Medicaid,2024,3,514590050
+64,Medicare,2012,4,454787095
+64,Medicare,2013,3,427323110
+64,Medicare,2014,2,468849337
+64,Medicare,2015,1,476732597
+64,Medicare,2015,4,419882810
+64,Medicare,2016,3,445272878
+64,Medicare,2017,2,468433568
+64,Medicare,2018,1,535265499
+64,Medicare,2018,4,472088735
+64,Medicare,2019,3,481116165
+64,Medicare,2020,2,515901583
+64,Medicare,2021,1,555601635
+64,Medicare,2021,4,563468242
+64,Medicare,2022,3,593480209
+64,Medicare,2023,2,535700558
+64,Medicare,2024,1,633633175
+65,Pharmacy Benefit Managers (PBM),2010,1,155318122
+65,Pharmacy Benefit Managers (PBM),2010,4,186297244
+65,Pharmacy Benefit Managers (PBM),2011,3,114866776
+65,Pharmacy Benefit Managers (PBM),2012,2,126923163
+65,Pharmacy Benefit Managers (PBM),2013,1,110236898
+65,Pharmacy Benefit Managers (PBM),2013,4,140954334
+65,Pharmacy Benefit Managers (PBM),2014,3,160405362
+65,Pharmacy Benefit Managers (PBM),2015,2,98295683
+65,Pharmacy Benefit Managers (PBM),2016,1,91532009
+65,Pharmacy Benefit Managers (PBM),2016,4,83756036
+65,Pharmacy Benefit Managers (PBM),2017,3,106365664
+65,Pharmacy Benefit Managers (PBM),2018,2,113422722
+65,Pharmacy Benefit Managers (PBM),2019,1,136931773
+66,HIPAA,2010,2,468386671
+66,HIPAA,2011,1,455844543
+66,HIPAA,2011,4,437098501
+66,HIPAA,2012,3,436139570
+66,HIPAA,2013,2,392714372
+66,HIPAA,2014,1,440370159
+68,Controlled Substance Act,2024,4,133391892
+69,Right to Try,2019,1,464861534
+71,Cybersecurity,2013,4,78490004
+71,Cybersecurity,2014,3,85816053
+71,Cybersecurity,2015,2,88936445
+71,Cybersecurity,2016,1,83463103
+71,Cybersecurity,2016,4,74947450
+71,Cybersecurity,2017,3,63624026
+71,Cybersecurity,2018,2,74074124
+71,Cybersecurity,2019,1,83464983
+71,Cybersecurity,2019,4,105054107
+71,Cybersecurity,2020,3,92770440
+71,Cybersecurity,2021,2,104745142
+71,Cybersecurity,2022,1,132031923
+71,Cybersecurity,2022,4,120333516
+71,Cybersecurity,2023,3,111306893
+71,Cybersecurity,2024,2,119921694
+72,Cloud Computing,2010,3,195871429
+72,Cloud Computing,2011,2,54986082
+72,Cloud Computing,2012,1,65019465
+67,Affordable Care Act (ACA),2024,3,418387079
+68,Controlled Substance Act,2010,1,157058123
+68,Controlled Substance Act,2010,4,144867333
+68,Controlled Substance Act,2011,3,116533573
+68,Controlled Substance Act,2012,2,113150153
+68,Controlled Substance Act,2013,1,108143326
+68,Controlled Substance Act,2013,4,132541644
+68,Controlled Substance Act,2014,3,134530275
+68,Controlled Substance Act,2015,2,133640598
+68,Controlled Substance Act,2016,1,127919389
+69,Right to Try,2023,4,479659865
+69,Right to Try,2024,3,464728783
+70,Artificial Intelligence,2010,4,67194728
+70,Artificial Intelligence,2011,3,53992491
+70,Artificial Intelligence,2012,2,58045848
+70,Artificial Intelligence,2013,1,59992385
+70,Artificial Intelligence,2013,4,78490004
+70,Artificial Intelligence,2014,3,85816053
+70,Artificial Intelligence,2015,2,88936445
+70,Artificial Intelligence,2016,1,83463103
+70,Artificial Intelligence,2016,4,74947450
+70,Artificial Intelligence,2017,3,63624026
+70,Artificial Intelligence,2018,2,74074124
+70,Artificial Intelligence,2019,1,83464983
+70,Artificial Intelligence,2019,4,105054107
+70,Artificial Intelligence,2020,3,92770440
+70,Artificial Intelligence,2021,2,104745142
+70,Artificial Intelligence,2022,1,132031923
+72,Cloud Computing,2016,4,74947450
+72,Cloud Computing,2017,3,63624026
+72,Cloud Computing,2018,2,74074124
+72,Cloud Computing,2019,1,83464983
+72,Cloud Computing,2019,4,105054107
+72,Cloud Computing,2020,3,92770440
+72,Cloud Computing,2021,2,104745142
+72,Cloud Computing,2022,1,132031923
+72,Cloud Computing,2022,4,120333516
+72,Cloud Computing,2023,3,111306893
+72,Cloud Computing,2024,2,119921694
+58,Medicare Part D,2023,4,273267106
+58,Medicare Part D,2024,3,245090083
+59,Generic Drugs/Pharmaceuticals,2010,1,191497682
+59,Generic Drugs/Pharmaceuticals,2010,4,213650748
+59,Generic Drugs/Pharmaceuticals,2011,3,160456991
+59,Generic Drugs/Pharmaceuticals,2012,2,185016287
+59,Generic Drugs/Pharmaceuticals,2013,1,159262792
+59,Generic Drugs/Pharmaceuticals,2013,4,178583665
+59,Generic Drugs/Pharmaceuticals,2014,3,182351959
+59,Generic Drugs/Pharmaceuticals,2015,2,163923988
+59,Generic Drugs/Pharmaceuticals,2016,1,158790435
+60,Orphan Drugs,2010,1,127544282
+60,Orphan Drugs,2010,4,110443399
+60,Orphan Drugs,2011,3,69038125
+60,Orphan Drugs,2012,2,71898100
+60,Orphan Drugs,2013,1,60481740
+60,Orphan Drugs,2013,4,70664349
+60,Orphan Drugs,2014,3,63123963
+60,Orphan Drugs,2015,2,61666174
+60,Orphan Drugs,2016,1,56505631
+61,Pharmaceutical Clinical Trials,2023,4,150316876
+61,Pharmaceutical Clinical Trials,2024,3,162131261
+63,Medicaid,2013,4,469116817
+63,Medicaid,2014,3,458778558
+63,Medicaid,2015,2,466735485
+63,Medicaid,2016,1,455985222
+63,Medicaid,2016,4,427912855
+63,Medicaid,2017,3,454849583
+63,Medicaid,2018,2,467964441
+63,Medicaid,2019,1,514381560
+63,Medicaid,2019,4,496798816
+63,Medicaid,2020,3,533529775
+63,Medicaid,2021,2,517308586
+63,Medicaid,2022,1,616168923
+63,Medicaid,2022,4,582424214
+63,Medicaid,2023,3,535565567
+63,Medicaid,2024,2,546770358
+64,Medicare,2016,4,427912855
+64,Medicare,2017,3,454849583
+64,Medicare,2018,2,467964441
+64,Medicare,2019,1,514381560
+64,Medicare,2019,4,496798816
+64,Medicare,2020,3,533529775
+64,Medicare,2021,2,517308586
+64,Medicare,2022,1,616168923
+64,Medicare,2022,4,582424214
+64,Medicare,2023,3,535565567
+64,Medicare,2024,2,546770358
+65,Pharmacy Benefit Managers (PBM),2010,3,140044144
+65,Pharmacy Benefit Managers (PBM),2011,2,107875617
+65,Pharmacy Benefit Managers (PBM),2012,1,152467675
+65,Pharmacy Benefit Managers (PBM),2012,4,121826408
+65,Pharmacy Benefit Managers (PBM),2013,3,117668063
+65,Pharmacy Benefit Managers (PBM),2014,2,157868550
+65,Pharmacy Benefit Managers (PBM),2015,1,122743008
+66,HIPAA,2010,3,469677600
+66,HIPAA,2011,2,409312217
+66,HIPAA,2012,1,463849862
+66,HIPAA,2012,4,446021423
+66,HIPAA,2013,3,393867886
+66,HIPAA,2014,2,439420655
+66,HIPAA,2015,1,439439751
+66,HIPAA,2015,4,399182536
+66,HIPAA,2016,3,433949019
+66,HIPAA,2017,2,434838511
+66,HIPAA,2018,1,479912443
+69,Right to Try,2015,4,399182536
+69,Right to Try,2016,3,433949019
+69,Right to Try,2017,2,434838511
+69,Right to Try,2018,1,479912443
+69,Right to Try,2018,4,439415572
+69,Right to Try,2019,3,430079334
+69,Right to Try,2020,2,450726291
+69,Right to Try,2021,1,462897051
+65,Pharmacy Benefit Managers (PBM),2024,4,149773588
+67,Affordable Care Act (ACA),2021,4,450853208
+67,Affordable Care Act (ACA),2022,3,499783490
+67,Affordable Care Act (ACA),2023,2,415085562
+67,Affordable Care Act (ACA),2024,1,478869424
+67,Affordable Care Act (ACA),2024,4,438384790
+68,Controlled Substance Act,2010,3,125771582
+68,Controlled Substance Act,2011,2,109268106
+68,Controlled Substance Act,2012,1,165862959
+70,Artificial Intelligence,2010,3,195871429
+70,Artificial Intelligence,2011,2,54986082
+70,Artificial Intelligence,2012,1,65019465
+70,Artificial Intelligence,2012,4,70994300
+70,Artificial Intelligence,2013,3,53754626
+70,Artificial Intelligence,2014,2,80537118
+70,Artificial Intelligence,2015,1,76624856
+70,Artificial Intelligence,2015,4,80001931
+70,Artificial Intelligence,2016,3,77834266
+70,Artificial Intelligence,2017,2,70010005
+70,Artificial Intelligence,2018,1,59583602
+71,Cybersecurity,2010,1,86969493
+71,Cybersecurity,2010,4,67194728
+71,Cybersecurity,2011,3,53992491
+71,Cybersecurity,2012,2,58045848
+71,Cybersecurity,2013,1,59992385
+72,Cloud Computing,2012,4,70994300
+72,Cloud Computing,2013,3,53754626
+72,Cloud Computing,2014,2,80537118
+72,Cloud Computing,2015,1,76624856
+72,Cloud Computing,2015,4,80001931
+72,Cloud Computing,2016,3,77834266
+72,Cloud Computing,2017,2,70010005
+72,Cloud Computing,2018,1,59583602
+72,Cloud Computing,2018,4,60947945
+72,Cloud Computing,2019,3,89082237
+72,Cloud Computing,2020,2,94443502
+72,Cloud Computing,2021,1,99408404
+72,Cloud Computing,2021,4,128541437
+72,Cloud Computing,2022,3,127885731
+72,Cloud Computing,2023,2,120414423
+72,Cloud Computing,2024,1,137997068
+69,Right to Try,2019,4,456881830
+69,Right to Try,2020,3,494841265
+69,Right to Try,2021,2,451671281
+69,Right to Try,2022,1,503248591
+69,Right to Try,2022,4,505193488
+69,Right to Try,2023,3,455095602
+69,Right to Try,2024,2,464915890
+70,Artificial Intelligence,2014,4,84402226
+70,Artificial Intelligence,2015,3,82108415
+70,Artificial Intelligence,2016,2,85699051
+70,Artificial Intelligence,2017,1,74782192
+70,Artificial Intelligence,2017,4,67997615
+70,Artificial Intelligence,2018,3,58584038
+70,Artificial Intelligence,2019,2,80788381
+70,Artificial Intelligence,2020,1,99320238
+70,Artificial Intelligence,2020,4,100484402
+70,Artificial Intelligence,2021,3,116013163
+70,Artificial Intelligence,2022,2,124050877
+70,Artificial Intelligence,2023,1,115382447
+70,Artificial Intelligence,2023,4,122417033
+70,Artificial Intelligence,2024,3,120098450
+71,Cybersecurity,2010,3,195871429
+71,Cybersecurity,2011,2,54986082
+71,Cybersecurity,2012,1,65019465
+71,Cybersecurity,2012,4,70994300
+71,Cybersecurity,2013,3,53754626
+71,Cybersecurity,2014,2,80537118
+71,Cybersecurity,2015,1,76624856
+71,Cybersecurity,2015,4,80001931
+71,Cybersecurity,2016,3,77834266
+71,Cybersecurity,2017,2,70010005
+71,Cybersecurity,2018,1,59583602
+71,Cybersecurity,2018,4,60947945
+71,Cybersecurity,2019,3,89082237
+71,Cybersecurity,2020,2,94443502
+71,Cybersecurity,2021,1,99408404
+72,Cloud Computing,2010,1,86969493
+72,Cloud Computing,2010,4,67194728
+72,Cloud Computing,2011,3,53992491
+72,Cloud Computing,2012,2,58045848
+72,Cloud Computing,2013,1,59992385
+72,Cloud Computing,2013,4,78490004
+72,Cloud Computing,2014,3,85816053
+72,Cloud Computing,2015,2,88936445
+72,Cloud Computing,2016,1,83463103
+69,Right to Try,2021,4,463993962
+69,Right to Try,2022,3,519806392
+69,Right to Try,2023,2,443862873
+69,Right to Try,2024,1,506915109
+69,Right to Try,2024,4,470706749
+70,Artificial Intelligence,2018,4,60947945
+70,Artificial Intelligence,2019,3,89082237
+70,Artificial Intelligence,2020,2,94443502
+70,Artificial Intelligence,2021,1,99408404
+70,Artificial Intelligence,2021,4,128541437
+70,Artificial Intelligence,2022,3,127885731
+70,Artificial Intelligence,2023,2,120414423
+70,Artificial Intelligence,2024,1,137997068
+70,Artificial Intelligence,2024,4,127046442
+71,Cybersecurity,2010,2,80117022
+71,Cybersecurity,2011,1,82181877
+71,Cybersecurity,2011,4,55842039
+71,Cybersecurity,2012,3,60442457
+71,Cybersecurity,2013,2,58710825
+71,Cybersecurity,2014,1,79008940
+71,Cybersecurity,2014,4,84402226
+71,Cybersecurity,2015,3,82108415
+71,Cybersecurity,2016,2,85699051
+71,Cybersecurity,2017,1,74782192
+72,Cloud Computing,2010,2,80117022
+72,Cloud Computing,2011,1,82181877
+72,Cloud Computing,2011,4,55842039
+72,Cloud Computing,2012,3,60442457
+72,Cloud Computing,2013,2,58710825
+72,Cloud Computing,2014,1,79008940
+72,Cloud Computing,2014,4,84402226
+72,Cloud Computing,2015,3,82108415
+72,Cloud Computing,2016,2,85699051
+72,Cloud Computing,2017,1,74782192
+72,Cloud Computing,2017,4,67997615
+72,Cloud Computing,2018,3,58584038
+72,Cloud Computing,2019,2,80788381
+72,Cloud Computing,2020,1,99320238
+20,Public Lands and Water Management,2012,4,87408763
+20,Public Lands and Water Management,2013,3,87481825
+20,Public Lands and Water Management,2014,2,100996642
+20,Public Lands and Water Management,2015,1,88650604
+20,Public Lands and Water Management,2015,4,86593444
+20,Public Lands and Water Management,2016,3,95140174
+20,Public Lands and Water Management,2017,2,82983463
+20,Public Lands and Water Management,2018,1,104003854
+21,Culture,2010,1,13585782
+21,Culture,2010,4,10715771
+21,Culture,2011,3,4959034
+21,Culture,2012,2,5942412
+21,Culture,2013,1,9404142
+46,Pharmaceuticals/Drugs,2017,4,56996939
+46,Pharmaceuticals/Drugs,2018,3,62266683
+46,Pharmaceuticals/Drugs,2019,2,69243176
+46,Pharmaceuticals/Drugs,2020,1,77564956
+46,Pharmaceuticals/Drugs,2020,4,69900638
+46,Pharmaceuticals/Drugs,2021,3,65549209
+46,Pharmaceuticals/Drugs,2022,2,72260268
+46,Pharmaceuticals/Drugs,2023,1,88161930
+46,Pharmaceuticals/Drugs,2023,4,81500519
+46,Pharmaceuticals/Drugs,2024,3,79948275
+47,Biotechnology,2012,4,92989665
+47,Biotechnology,2013,3,68155772
+47,Biotechnology,2014,2,96763044
+47,Biotechnology,2015,1,96699868
+47,Biotechnology,2015,4,101464765
+47,Biotechnology,2016,3,98128889
+47,Biotechnology,2017,2,90200287
+47,Biotechnology,2018,1,82335308
+47,Biotechnology,2018,4,81778948
+47,Biotechnology,2019,3,113348858
+47,Biotechnology,2020,2,120560112
+47,Biotechnology,2021,1,122540346
+47,Biotechnology,2021,4,151468747
+47,Biotechnology,2022,3,154328957
+47,Biotechnology,2023,2,143786752
+47,Biotechnology,2024,1,164742207
+48,Intellectual Property,2023,4,150231872
+48,Intellectual Property,2024,3,146837461
+49,Health Systems/Hospital Systems,2018,4,476386897
+49,Health Systems/Hospital Systems,2019,3,462609891
+49,Health Systems/Hospital Systems,2020,2,508344986
+49,Health Systems/Hospital Systems,2021,1,511561614
+49,Health Systems/Hospital Systems,2021,4,543713874
+49,Health Systems/Hospital Systems,2022,3,602818942
+49,Health Systems/Hospital Systems,2023,2,516327089
+49,Health Systems/Hospital Systems,2024,1,597980770
+49,Health Systems/Hospital Systems,2024,4,551309519
+51,Drug Pricing,2024,4,182095547
+52,Drug Reimbursement,2010,3,319740581
+52,Drug Reimbursement,2011,2,247144792
+52,Drug Reimbursement,2012,1,293605012
+52,Drug Reimbursement,2012,4,262615016
+52,Drug Reimbursement,2013,3,228200582
+52,Drug Reimbursement,2014,2,252053899
+52,Drug Reimbursement,2015,1,218376164
+53,Drug Discount Programs,2010,1,191497682
+54,Center for Medicare Services (CMS),2010,3,275822488
+54,Center for Medicare Services (CMS),2011,2,235305036
+54,Center for Medicare Services (CMS),2012,1,267883327
+54,Center for Medicare Services (CMS),2012,4,283914455
+54,Center for Medicare Services (CMS),2013,3,234455443
+54,Center for Medicare Services (CMS),2014,2,256141281
+54,Center for Medicare Services (CMS),2015,1,263138208
+54,Center for Medicare Services (CMS),2015,4,242021536
+54,Center for Medicare Services (CMS),2016,3,254744458
+54,Center for Medicare Services (CMS),2017,2,279230009
+54,Center for Medicare Services (CMS),2018,1,334400489
+54,Center for Medicare Services (CMS),2018,4,310617984
+54,Center for Medicare Services (CMS),2019,3,282886550
+54,Center for Medicare Services (CMS),2020,2,277877065
+54,Center for Medicare Services (CMS),2021,1,300157560
+55,Biologics,2010,1,127544282
+55,Biologics,2010,4,110443399
+55,Biologics,2011,3,69038125
+55,Biologics,2012,2,71898100
+55,Biologics,2013,1,60481740
+55,Biologics,2013,4,70664349
+55,Biologics,2014,3,63123963
+55,Biologics,2015,2,61666174
+55,Biologics,2016,1,56505631
+56,Biogenerics,2015,4,58939995
+56,Biogenerics,2016,3,56646954
+56,Biogenerics,2017,2,56632490
+56,Biogenerics,2018,1,64814103
+56,Biogenerics,2018,4,64787148
+56,Biogenerics,2019,3,77047828
+56,Biogenerics,2020,2,74731502
+56,Biogenerics,2021,1,69622778
+56,Biogenerics,2021,4,72301798
+56,Biogenerics,2022,3,75348706
+56,Biogenerics,2023,2,71757261
+56,Biogenerics,2024,1,91170495
+57,MRNA/MRNA Vaccines,2010,4,110443399
+57,MRNA/MRNA Vaccines,2011,3,69038125
+57,MRNA/MRNA Vaccines,2012,2,71898100
+57,MRNA/MRNA Vaccines,2013,1,60481740
+57,MRNA/MRNA Vaccines,2013,4,70664349
+57,MRNA/MRNA Vaccines,2014,3,63123963
+57,MRNA/MRNA Vaccines,2015,2,61666174
+57,MRNA/MRNA Vaccines,2016,1,56505631
+57,MRNA/MRNA Vaccines,2016,4,56803567
+57,MRNA/MRNA Vaccines,2017,3,55500605
+57,MRNA/MRNA Vaccines,2018,2,64746559
+57,MRNA/MRNA Vaccines,2019,1,71308915
+57,MRNA/MRNA Vaccines,2019,4,73846318
+57,MRNA/MRNA Vaccines,2020,3,71512869
+57,MRNA/MRNA Vaccines,2021,2,63827223
+57,MRNA/MRNA Vaccines,2022,1,81370666
+58,Medicare Part D,2021,4,254303053
+58,Medicare Part D,2022,3,257264417
+58,Medicare Part D,2023,2,250314666
+58,Medicare Part D,2024,1,316052082
+58,Medicare Part D,2024,4,250639137
+59,Generic Drugs/Pharmaceuticals,2016,4,166091157
+59,Generic Drugs/Pharmaceuticals,2017,3,154804697
+59,Generic Drugs/Pharmaceuticals,2018,2,167657799
+59,Generic Drugs/Pharmaceuticals,2019,1,180131986
+59,Generic Drugs/Pharmaceuticals,2019,4,184173166
+59,Generic Drugs/Pharmaceuticals,2020,3,192592721
+59,Generic Drugs/Pharmaceuticals,2021,2,154946257
+59,Generic Drugs/Pharmaceuticals,2022,1,165179730
+59,Generic Drugs/Pharmaceuticals,2022,4,177008612
+59,Generic Drugs/Pharmaceuticals,2023,3,179538939
+59,Generic Drugs/Pharmaceuticals,2024,2,182342379
+60,Orphan Drugs,2024,4,75777396
+61,Pharmaceutical Clinical Trials,2019,4,156211474
+61,Pharmaceutical Clinical Trials,2020,3,170975356
+61,Pharmaceutical Clinical Trials,2021,2,135635604
+61,Pharmaceutical Clinical Trials,2022,1,135893332
+61,Pharmaceutical Clinical Trials,2022,4,157588658
+61,Pharmaceutical Clinical Trials,2023,3,148073620
+61,Pharmaceutical Clinical Trials,2024,2,151955321
+62,Health Insurance,2010,1,499840208
+62,Health Insurance,2010,4,455968791
+62,Health Insurance,2011,3,362207565
+62,Health Insurance,2012,2,406142048
+62,Health Insurance,2013,1,363608542
+64,Medicare,2010,1,605461074
+64,Medicare,2010,4,530525578
+64,Medicare,2011,3,449863551
+64,Medicare,2012,2,466975598
+64,Medicare,2013,1,456281020
+64,Medicare,2013,4,469116817
+64,Medicare,2014,3,458778558
+64,Medicare,2015,2,466735485
+64,Medicare,2016,1,455985222
+65,Pharmacy Benefit Managers (PBM),2010,2,137370851
+65,Pharmacy Benefit Managers (PBM),2011,1,130502158
+66,HIPAA,2010,4,483322295
+66,HIPAA,2011,3,407797780
+66,HIPAA,2012,2,464235172
+66,HIPAA,2013,1,412634436
+66,HIPAA,2013,4,442301608
+66,HIPAA,2014,3,447168813
+66,HIPAA,2015,2,428946366
+66,HIPAA,2016,1,416007425
+66,HIPAA,2016,4,417266160
+66,HIPAA,2017,3,424004038
+66,HIPAA,2018,2,441085361
+66,HIPAA,2019,1,464861534
+66,HIPAA,2019,4,456881830
+66,HIPAA,2020,3,494841265
+66,HIPAA,2021,2,451671281
+66,HIPAA,2022,1,503248591
+67,Affordable Care Act (ACA),2010,2,441657829
+67,Affordable Care Act (ACA),2011,1,413052944
+67,Affordable Care Act (ACA),2011,4,384202338
+67,Affordable Care Act (ACA),2012,3,383951900
+67,Affordable Care Act (ACA),2013,2,348599183
+67,Affordable Care Act (ACA),2014,1,405244784
+67,Affordable Care Act (ACA),2014,4,400150414
+67,Affordable Care Act (ACA),2015,3,357871486
+67,Affordable Care Act (ACA),2016,2,344619121
+67,Affordable Care Act (ACA),2017,1,425568796
+68,Controlled Substance Act,2016,4,119787960
+68,Controlled Substance Act,2017,3,102644615
+68,Controlled Substance Act,2018,2,117725721
+68,Controlled Substance Act,2019,1,119861790
+68,Controlled Substance Act,2019,4,119482745
+68,Controlled Substance Act,2020,3,139420161
+68,Controlled Substance Act,2021,2,125754797
+68,Controlled Substance Act,2022,1,119983968
+68,Controlled Substance Act,2022,4,134004980
+68,Controlled Substance Act,2023,3,138600316
+68,Controlled Substance Act,2024,2,144368316
+69,Right to Try,2011,4,437098501
+69,Right to Try,2012,3,436139570
+69,Right to Try,2013,2,392714372
+69,Right to Try,2014,1,440370159
+69,Right to Try,2014,4,428684750
+69,Right to Try,2015,3,407034459
+69,Right to Try,2016,2,423907628
+69,Right to Try,2017,1,478513863
+69,Right to Try,2017,4,476356019
+69,Right to Try,2018,3,461944174
+69,Right to Try,2019,2,445218321
+69,Right to Try,2020,1,503603700
+69,Right to Try,2020,4,487991485
+69,Right to Try,2021,3,455230071
+69,Right to Try,2022,2,476679633
+69,Right to Try,2023,1,508511831
+70,Artificial Intelligence,2022,4,120333516
+70,Artificial Intelligence,2023,3,111306893
+70,Artificial Intelligence,2024,2,119921694
+71,Cybersecurity,2017,4,67997615
+71,Cybersecurity,2018,3,58584038
+71,Cybersecurity,2019,2,80788381
+71,Cybersecurity,2020,1,99320238
+71,Cybersecurity,2020,4,100484402
+71,Cybersecurity,2021,3,116013163
+71,Cybersecurity,2022,2,124050877
+71,Cybersecurity,2023,1,115382447
+71,Cybersecurity,2023,4,122417033
+71,Cybersecurity,2024,3,120098450
