@@ -8,29 +8,31 @@ from io import StringIO
 import os
 import io
 import re
-from dotenv import load_dotenv # pip install python-dotenv
+import ssl
+import requests
+
 
 # Set the page layout to 'wide'
 st.set_page_config(layout="wide")
 
-# AWS S3 configuration
-s3 = boto3.client('s3', region_name='us-east-1')
-
-# Load environment variables from .env file
-load_dotenv()
-
-# Access environment variables
-BUCKET_NAME = os.getenv("BUCKET_NAME")
-FOLDER_NAME = os.getenv("FOLDER_NAME")
-FILE_NAME1 = os.getenv("FILE_NAME1")
-FILE_NAME2 = os.getenv("FILE_NAME2")
 
 # Load the data from GitHub
+# ssl._create_default_https_context = ssl._create_unverified_context  # Disable SSL verification
 df_frequency_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-Issue-Areas-App/main/lda_frequency_by_issue_area_over_time.csv"
 df_expenses_path = "https://raw.githubusercontent.com/MinShiMia/SI-Congressional-Analytics-Lobbying-by-Issue-Areas-App/main/lda_lobbying_expenses_by_issue_area_over_time.csv"
 
-df_frequency = pd.read_csv(df_frequency_path)
-df_expenses = pd.read_csv(df_expenses_path)
+
+response1 = requests.get(df_frequency_path)
+response1.raise_for_status()  # Raise an error for bad status codes (e.g., 404, 403)
+csv_data1 = response1.content.decode('utf-8')
+df_frequency = pd.read_csv(io.StringIO(csv_data1))
+print(df_frequency.head())
+
+response2 = requests.get(df_expenses_path)
+response2.raise_for_status()  # Raise an error for bad status codes (e.g., 404, 403)
+csv_data2 = response2.content.decode('utf-8')
+df_expenses = pd.read_csv(io.StringIO(csv_data2))
+print(df_expenses.head())
 
 
 # Sidebar Filters
