@@ -2,14 +2,15 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-from streamlit_plotly_events import plotly_events  # For capturing click events
-import json
-from io import StringIO
-import os
 import io
-import re
-import ssl
 import requests
+# from streamlit_plotly_events import plotly_events  # For capturing click events
+# import json
+# from io import StringIO
+# import os
+# import re
+# import ssl
+
 
 
 # Set the page layout to 'wide'
